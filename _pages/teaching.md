@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+Spring 2024: TA for `Econ 2010 Principles of Microeconomics` 
+The worksheet questions were provided by Dr. [Daria Bottan](https://www.colorado.edu/economics/people/faculty/daria-bottan)
+[Week 2](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EasJa1ShTxxOhxV_vIm924MBk8HNVHEX9pK3vlTui9loBg?e=O19ct0), [Week 2 Solutions]
+
+Fall 2023: TA for `Econ 2010 Principles of Microeconomics`
