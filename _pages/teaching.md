@@ -16,7 +16,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 [Week 3](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETTiRu12qUBJktKMiOSYLSIBK9xb-XCRS3Bhs-VPJIg-wQ?e=eGaCJC), [Week 3 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ9FeaF47yBBvvFt_ktVudUBo9-JW6_BU2slISV92bmjhQ?e=PaRwS7)
 
-Additional Notes
+Additional Notes based on frequently asked questions
 
 Does price decrease increase Demand? No! Demand vs Quantity Demanded
 
