@@ -18,7 +18,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 Additional Notes based on frequently asked questions
 
-Does price decrease increase Demand? No! [Demand vs Quantity Demanded](#)
+- Does price decrease increase Demand? No! [Demand vs Quantity Demanded](#)
 
 
 
