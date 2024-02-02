@@ -22,7 +22,7 @@ Additional notes based on frequently asked questions
 
 - Does price-decrease increase Demand? No! [Demand vs Quantity Demanded](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXVT4dVOXXpJkQRgVqV4Nq8BDt_MogF-PPZjmUL4YRpiKw?e=jKzxBc)
 - Which direction does demand or supply curve shift? [Shift in Curves](#)
-- What if I forgot the direction of shifts in exam? [Finding shift](#)
+- What if I forgot the direction of shifts in exam? [Finding shift](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETPB51MDI8JHmQu7Pj-mEJ0BYVVSqmaVkMx8u6S3EaBWLQ?e=eKenfk)
 
 
 
