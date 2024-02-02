@@ -16,9 +16,13 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 [Week 3](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETTiRu12qUBJktKMiOSYLSIBK9xb-XCRS3Bhs-VPJIg-wQ?e=eGaCJC), [Week 3 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ9FeaF47yBBvvFt_ktVudUBo9-JW6_BU2slISV92bmjhQ?e=PaRwS7)
 
+[Week 4](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EYIRBoDp4DdEhHCue-9csrMBQYCbGGJ7wkQfztT1cFfHTA?e=PPovW6)
+
 Additional notes based on frequently asked questions
 
 - Does price decrease increase Demand? No! [Demand vs Quantity Demanded](#)
+- Which direction does demand or supply curve shift? [Shift in Curves](#)
+- What if I forgot the direction of shifts in exam? [Finding shift](#)
 
 
 
