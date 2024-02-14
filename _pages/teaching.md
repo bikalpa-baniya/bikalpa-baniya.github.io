@@ -16,7 +16,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 [Week 3](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETTiRu12qUBJktKMiOSYLSIBK9xb-XCRS3Bhs-VPJIg-wQ?e=eGaCJC), [Week 3 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ9FeaF47yBBvvFt_ktVudUBo9-JW6_BU2slISV92bmjhQ?e=PaRwS7): Supply and Demand
 
-[Week 4](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EYIRBoDp4DdEhHCue-9csrMBQYCbGGJ7wkQfztT1cFfHTA?e=PPovW6), [Week 4 Solutions](#): Equilibrium
+[Week 4](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EYIRBoDp4DdEhHCue-9csrMBQYCbGGJ7wkQfztT1cFfHTA?e=PPovW6), [Week 4 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EeaEidKKU0ZNvXD5ZI8LnjoBVt7m_8jU6pQ3NyMAyMAAEg?e=xmOugk): Equilibrium
 
 [Week 5](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ERyf_v9VlDhLk0uGcULgsvsBWxVCk-2aW5TvPRDnV634YQ?e=CUcbnH), [Week 5 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EaxgrnGm3tpAscTOkOGfrtkBuFibbVQQ6XHsOTfyX-o7Cg?e=Hx4YLM): Consumer and Producer Surplus
 
