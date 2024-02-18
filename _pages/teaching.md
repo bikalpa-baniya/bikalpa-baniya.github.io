@@ -20,7 +20,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 [Week 5](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ERyf_v9VlDhLk0uGcULgsvsBWxVCk-2aW5TvPRDnV634YQ?e=CUcbnH), [Week 5 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EaxgrnGm3tpAscTOkOGfrtkBuFibbVQQ6XHsOTfyX-o7Cg?e=Hx4YLM): Consumer and Producer Surplus
 
-Week 6: Midterm Review
+[Week 6](#),[Week 6 Solution](#): Price Floor, Price Ceiling and Midterm Review
 
 Additional notes based on frequently asked questions
 
