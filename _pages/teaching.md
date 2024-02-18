@@ -22,6 +22,11 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 [Week 6](#), [Week 6 Solutions](#): Price Floor, Price Ceiling and Midterm Review
 
+Week 7: Midterm I
+
+[Week 8](#), [Week 8 Solutions](#): Elasticity
+
+
 Additional notes based on frequently asked questions
 
 - Does price-decrease increase Demand? No! [Demand vs Quantity Demanded](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXVT4dVOXXpJkQRgVqV4Nq8BDt_MogF-PPZjmUL4YRpiKw?e=jKzxBc)
