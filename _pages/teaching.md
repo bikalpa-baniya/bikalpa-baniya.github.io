@@ -24,7 +24,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 Week 7: Midterm I
 
-[Week 8](#), [Week 8 Solutions](#): Elasticity
+Week 8, Week 8 Solutions: Elasticity
 
 
 Additional notes based on frequently asked questions
