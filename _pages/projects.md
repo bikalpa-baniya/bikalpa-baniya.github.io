@@ -19,11 +19,11 @@ BA in Economics (Writing and Communication Minor), **Oberlin College**, 2019
 
 `Research Experiences` 
 
-Consultant, **World Bank Group – Education Practice**, Washington, DC, March 2021 – July 2021
+Consultant, **World Bank Group – Education Practice**; Washington, DC; March 2021 – July 2021
 
-Data Science Intern, **UNESCO – IIEP**, Paris, France, December 2020 – April 2021
+Data Science Intern, **UNESCO – IIEP**; Paris, France; December 2020 – April 2021
 
-Data Analyst, **World Bank Group – Poverty and Equity Practice**, Washington, DC, June 2019 – August 2019
+Data Analyst, **World Bank Group – Poverty and Equity Practice**; Washington, DC; June 2019 – August 2019
 
 
 `Awards` 
