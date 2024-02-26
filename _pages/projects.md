@@ -11,7 +11,7 @@ horizontal: false
 
 `Education` 
 
-MSc in Economics, **University of Wisconsin**- Madison, 2023
+MSc in Economics, **University of Wisconsin - Madison**, 2023
 
 MSEd in Education, **University of Pennsylvania**, Graduate School of Education, 2021
 
