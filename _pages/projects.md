@@ -30,7 +30,7 @@ Data Analyst, **World Bank Group – Poverty and Equity Practice**; Washington, 
 
 2019-2021 **Penn-UNESCO Fellow**: Full tuition scholarship for study at Penn GSE
 
-2021 **[UNESCO EdPlanning Hackathon Winner](https://www.iiep.unesco.org/en/making-new-tools-part-plan-meet-winners-hacking-edplanning-13615)**: Provided a solution to efficiently identify school employee who are on a on a payroll but no longer work
+2021 **[UNESCO EdPlanning Hackathon Winner](https://www.iiep.unesco.org/en/making-new-tools-part-plan-meet-winners-hacking-edplanning-13615)**: Provided a text-matching solution to efficiently identify school employee who are on a on a payroll but no longer work
 
 2019 **Jerome Davis Research Award**: Awarded for college capstone thesis entitled "Determinants of International Student flow to the US”
 
