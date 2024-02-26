@@ -32,7 +32,7 @@ Data Analyst, **World Bank Group – Poverty and Equity Practice**; Washington, 
 
 2021 **[UNESCO EdPlanning Hackathon Winner](https://www.iiep.unesco.org/en/making-new-tools-part-plan-meet-winners-hacking-edplanning-13615)**: Provided a solution to efficiently identify school employee who are on a on a payroll but no longer work
 
-2019 **Jerome Davis Research Award**: Awarded for college Economics capstone thesis entitled “Determinants of International Student flow to the US”
+2019 **Jerome Davis Research Award**: Awarded for college capstone thesis entitled “Determinants of International Student flow to the US”
 
 2017 **[Newman Civic Engagement Fellow](https://compact.org/current-programs/newman-civic-fellowship/newman-civic-fellows/bikalpa)**: Nominated by the Oberlin College President out of 3000 students for commitment to service
 
