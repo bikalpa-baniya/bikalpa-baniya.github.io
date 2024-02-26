@@ -9,8 +9,7 @@ nav_order: 7
 
 ---
 
-Github 
-[Github](https://github.com/bikalpa-baniya)
+https://github.com/bikalpa-baniya
 
 
 
