@@ -2,12 +2,14 @@
 layout: profiles
 permalink: /Code/
 title: Code
-description: [Github](https://github.com/bikalpa-baniya)
+description: Github
 nav: true
 nav_order: 7
 
 
 ---
+
+[Github](https://github.com/bikalpa-baniya)
 
 
 
