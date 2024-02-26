@@ -17,7 +17,7 @@ MSEd in Education, **University of Pennsylvania**, Graduate School of Education,
 
 BA in Economics (Writing and Communication Minor), **Oberlin College**, 2019 
 
-`Research Experiences` 
+`Experiences` 
 
 Consultant, **World Bank Group – Education Practice**; Washington, DC; March 2021 – July 2021
 
