@@ -20,19 +20,19 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 5](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ERyf_v9VlDhLk0uGcULgsvsBWxVCk-2aW5TvPRDnV634YQ?e=CUcbnH), [Week 5 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EaxgrnGm3tpAscTOkOGfrtkBSXU9-ZWuEjMBp0wjJVVWUQ?e=O5mJr6): Consumer and Producer Surplus
 
-[Week 6](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EUbisJeTkKBCnr_Jf0lUY8wBSrMyc0faCHAhclu6KOH-1w?e=hS03LJ), [Week 6 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EfJgA-BONjxCqvzlqFvvWoABelHk9nl-9jz7xPqdJ5D-HA?e=RvW8cz): Price Floor and Price Ceiling
+- [Week 6](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EUbisJeTkKBCnr_Jf0lUY8wBSrMyc0faCHAhclu6KOH-1w?e=hS03LJ), [Week 6 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EfJgA-BONjxCqvzlqFvvWoABelHk9nl-9jz7xPqdJ5D-HA?e=RvW8cz): Price Floor and Price Ceiling
 
-Week 7: Midterm I
+- Week 7: Midterm I
 
-[Week 8](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETLCW6j2iK9GhDUh6LI8LkgBTwUdkV4YdPGFnAhklwrXBw?e=VlsqVh), [Week 8 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETUe9A04gdJNhWU1UP0JPj4BtPNLJZ6vRxcl30nk4_1d6g?e=BHBB9c): Elasticity
+- [Week 8](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETLCW6j2iK9GhDUh6LI8LkgBTwUdkV4YdPGFnAhklwrXBw?e=VlsqVh), [Week 8 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETUe9A04gdJNhWU1UP0JPj4BtPNLJZ6vRxcl30nk4_1d6g?e=BHBB9c): Elasticity
 
-[Week 9](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ97a_h10gVDnEIgdHY047kBQxj3GbmQNx51aH2-xOBxAg?e=r0krVy), Week 9 Solutions: Marginal Product and Marginal Cost
+- [Week 9](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ97a_h10gVDnEIgdHY047kBQxj3GbmQNx51aH2-xOBxAg?e=r0krVy), Week 9 Solutions: Marginal Product and Marginal Cost
 
-Week 10, Week 10 Solutions: Profit Maximization and Perfect Compitition
+- Week 10, Week 10 Solutions: Profit Maximization and Perfect Compitition
 
-Week 11: Spring Break 
+- Week 11: Spring Break 
 
-Week 12, Week 12 Solutions: Monopoly
+- Week 12, Week 12 Solutions: Monopoly
 
 
 
