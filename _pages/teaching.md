@@ -26,7 +26,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 8](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETLCW6j2iK9GhDUh6LI8LkgBTwUdkV4YdPGFnAhklwrXBw?e=VlsqVh), [Week 8 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETUe9A04gdJNhWU1UP0JPj4BtPNLJZ6vRxcl30nk4_1d6g?e=BHBB9c): Elasticity
 
-- [Week 9](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ97a_h10gVDnEIgdHY047kBQxj3GbmQNx51aH2-xOBxAg?e=r0krVy), Week 9 Solutions: Marginal Product and Marginal Cost
+- [Week 9](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ97a_h10gVDnEIgdHY047kBQxj3GbmQNx51aH2-xOBxAg?e=r0krVy), [Week 9 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EfdWLF9tYa5EiW3ZhyvUWacBcDjvEjiqS51G7QxXv57TMQ?e=Dgh1JW): Marginal Product and Marginal Cost
 
 - Week 10, Week 10 Solutions: Profit Maximization and Perfect Compitition
 
