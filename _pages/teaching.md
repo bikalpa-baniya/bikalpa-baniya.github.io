@@ -28,7 +28,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 9](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ97a_h10gVDnEIgdHY047kBQxj3GbmQNx51aH2-xOBxAg?e=r0krVy), [Week 9 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EfdWLF9tYa5EiW3ZhyvUWacBcDjvEjiqS51G7QxXv57TMQ?e=Dgh1JW): Marginal Product and Marginal Cost
 
-- Week 10, Week 10 Solutions: Profit Maximization and Perfect Compitition
+- [Week 10](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EUrRGix44atHpaQPCnOYW4QBBYMunkBGyOnsmDBdQd9G2A?e=F3223n), Week 10 Solutions: Profit Maximization and Perfect Compitition
 
 - Week 11: Spring Break 
 
