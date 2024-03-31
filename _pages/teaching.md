@@ -32,7 +32,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - Week 11: Spring Break 
 
-- Week 12, Week 12 Solutions: Monopoly
+- [Week 12](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/Ea3_53SP8qNNpbKd3BhUPvUB3eO-G4NgvQJUp_0AKT7KSQ?e=iDPX6L), [Week 12](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXgAC-EYrZBMnx-1TtTKeAIBMVkwrSSiUtVNFcpzsNlgfQ?e=fwQEHc) Solutions: Monopoly
 
 
 
