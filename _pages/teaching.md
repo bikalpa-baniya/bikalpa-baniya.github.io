@@ -39,6 +39,8 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 - Week 14, Week 13 Solutions: Externalities and Public Goods
 
 - Week 15, Week 15 Solutions: Taxes
+  
+- Week 16, Week 16 Solutions: Final Review
 
 Additional notes based on frequently asked questions
 
