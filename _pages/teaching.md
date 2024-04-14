@@ -36,7 +36,9 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 13](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXBNnQQGIGtCi-Nq2O87Z-UBhPorCChRELlTcJN-BB6JIQ?e=dssFy5), [Week 13 Solutions](#): Monopolistic Competition + Midterm II Review
 
+- [Week 14](#), [Week 13 Solutions](): Externalities and Public Goods
 
+- [Week 15](#), [Week 15 Solutions](): Taxes
 
 Additional notes based on frequently asked questions
 
