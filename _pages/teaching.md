@@ -10,7 +10,7 @@ nav_order: 3
 
 Spring 2024: TA for `Econ 2010 Principles of Microeconomics` 
 
-[Review Notes](#)
+[Review Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ_qZqQI7ndPjyihuv2KNowBWbtLqlQU_S65wtK1Rc6RjA?e=B0jo7b)
 
 The questions in these recitation notes were provided by [Dr. Daria Bottan](https://www.colorado.edu/economics/people/faculty/daria-bottan)
 
@@ -38,7 +38,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 13](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXBNnQQGIGtCi-Nq2O87Z-UBhPorCChRELlTcJN-BB6JIQ?e=dssFy5), Week 13 Solutions: Monopolistic Competition + Midterm II Review
 
-- Week 14, Week 13 Solutions: Externalities and Public Goods
+- [Week 14](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZKuHogzUvVFsX-jVtkVHbwBSRCtxLIL1zslkoI70gHD7g?e=VKqzQK), Week 14 Solutions: Externalities and Public Goods
 
 - Week 15, Week 15 Solutions: Taxes
   
