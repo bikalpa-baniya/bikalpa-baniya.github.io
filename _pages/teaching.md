@@ -10,7 +10,7 @@ nav_order: 3
 
 Spring 2024: TA for `Econ 2010 Principles of Microeconomics` 
 
-[Review Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ_qZqQI7ndPjyihuv2KNowBWbtLqlQU_S65wtK1Rc6RjA?e=B0jo7b)
+[Review Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ_qZqQI7ndPjyihuv2KNowBIzTHI6Rzee2s4slIATbyxA?e=iP4t5k)
 
 The questions in these recitation notes were provided by [Dr. Daria Bottan](https://www.colorado.edu/economics/people/faculty/daria-bottan)
 
