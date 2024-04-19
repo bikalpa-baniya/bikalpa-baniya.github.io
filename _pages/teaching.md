@@ -36,13 +36,13 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 12](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/Ea3_53SP8qNNpbKd3BhUPvUB3eO-G4NgvQJUp_0AKT7KSQ?e=iDPX6L), [Week 12 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXgAC-EYrZBMnx-1TtTKeAIBMVkwrSSiUtVNFcpzsNlgfQ?e=fwQEHc): Monopoly
 
-- [Week 13](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXBNnQQGIGtCi-Nq2O87Z-UBhPorCChRELlTcJN-BB6JIQ?e=dssFy5), Week 13 Solutions: Monopolistic Competition + Midterm II Review
+- [Week 13](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXBNnQQGIGtCi-Nq2O87Z-UBhPorCChRELlTcJN-BB6JIQ?e=dssFy5), [Week 13 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETnEjb0utoVMnRzG6rPtX18B7mLFiZax2n_eigNbnGrLPg?e=qgSjBs): Monopolistic Competition + Midterm II Review
 
 - [Week 14](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZKuHogzUvVFsX-jVtkVHbwBSRCtxLIL1zslkoI70gHD7g?e=VKqzQK), Week 14 Solutions: Externalities and Public Goods
 
 - Week 15, Week 15 Solutions: Taxes
   
-- Week 16, Week 16 Solutions: Final Review
+- Week 16: Final Review
 
 Additional notes based on frequently asked questions
 
