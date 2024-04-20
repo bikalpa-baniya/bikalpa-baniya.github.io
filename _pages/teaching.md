@@ -24,7 +24,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 6](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EUbisJeTkKBCnr_Jf0lUY8wBSrMyc0faCHAhclu6KOH-1w?e=hS03LJ), [Week 6 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EfJgA-BONjxCqvzlqFvvWoABelHk9nl-9jz7xPqdJ5D-HA?e=RvW8cz): Price Floor and Price Ceiling
 
-- Week 7: Midterm I
+- Week 7: Midterm I Review
 
 - [Week 8](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETLCW6j2iK9GhDUh6LI8LkgBTwUdkV4YdPGFnAhklwrXBw?e=VlsqVh), [Week 8 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETUe9A04gdJNhWU1UP0JPj4BtPNLJZ6vRxcl30nk4_1d6g?e=BHBB9c): Elasticity
 
@@ -38,9 +38,9 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 13](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXBNnQQGIGtCi-Nq2O87Z-UBhPorCChRELlTcJN-BB6JIQ?e=dssFy5), [Week 13 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ETnEjb0utoVMnRzG6rPtX18B7mLFiZax2n_eigNbnGrLPg?e=qgSjBs): Monopolistic Competition + Midterm II Review
 
-- [Week 14](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZKuHogzUvVFsX-jVtkVHbwBSRCtxLIL1zslkoI70gHD7g?e=VKqzQK), [Week 14 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ESEe8OEheOBNlLFDWgUyeocBR0vwDwCK2B7RA-7-TDAcdg?e=PK2hxR): Externalities and Public Goods
+- [Week 14](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZKuHogzUvVFsX-jVtkVHbwBSRCtxLIL1zslkoI70gHD7g?e=VKqzQK), [Week 14 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ESEe8OEheOBNlLFDWgUyeocBR0vwDwCK2B7RA-7-TDAcdg?e=PK2hxR): Externalities and Public Goods + Final Review
 
-- Week 15, Week 15 Solutions: Taxes
+- Week 15, Week 15 Solutions: Taxes + Final Review
   
 - Week 16: Final Review
 
