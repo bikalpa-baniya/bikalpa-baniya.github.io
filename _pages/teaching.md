@@ -40,7 +40,7 @@ The questions in these recitation notes were provided by [Dr. Daria Bottan](http
 
 - [Week 14](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZKuHogzUvVFsX-jVtkVHbwBSRCtxLIL1zslkoI70gHD7g?e=VKqzQK), [Week 14 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ESEe8OEheOBNlLFDWgUyeocBR0vwDwCK2B7RA-7-TDAcdg?e=PK2hxR): Externalities and Public Goods + Final Exam Review
 
-- [Week 15](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EV4WqKc_tghMjYJKeHCtPOkBGud8romHm9Vg0zvWYxg3TQ?e=gxF2yC), Week 15 Solutions: Taxes + Final Exam Review
+- [Week 15](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EV4WqKc_tghMjYJKeHCtPOkBGud8romHm9Vg0zvWYxg3TQ?e=gxF2yC), [Week 15 Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EQVW1hU-E_NJrRlFp0bjUEwBE0gGZfSOeZbJHBb4QJwjyw?e=mbdW4J): Taxes + Final Exam Review
   
 - Week 16: Final Exam Review
 
