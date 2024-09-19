@@ -4,7 +4,7 @@ This repository contains a [Hugo](https://github.com/gohugoio/hugo) template to 
 
 ## Documentation
 
-The template is documented at https://pascalmichaillat.org/d5/.
+The template is documented at https://pascalmichaillat.org/d5/. a
 
 ## Illustration
 
