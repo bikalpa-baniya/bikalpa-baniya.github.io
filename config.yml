@@ -1,6 +1,5 @@
-baseURL: "https://bikalpa-baniya.github.io/"
-title: Bikalpa Baniya
-paginate: 20
+baseURL: "https://pascalmichaillat.org/hugo-website/"
+title: Moritz-Maria von Igelfeld
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -11,20 +10,25 @@ taxonomies:
 
 menu:
     main:
+        - name: Books
+          url: books/
+          weight: 5
         - name: Papers
           url: papers/
-          weight: 1
-        - name: Teaching
-          url: teaching/
           weight: 2
-        - name: Others
-          url: others/
+        - name: Courses
+          url: courses/
           weight: 3
-
+        - name: Data
+          url: data/
+          weight: 4
+        - name: Blog
+          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 6
 
 params:
-    description: "I am a PhD student in the Economics Department at CU Boulder. Before this, I was a graduate student at UW Madison and UPenn studying Economics and Education respectively."
-    author: Bikalpa Baniya
+    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -38,7 +42,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers", "teaching","others"]
+    MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -48,30 +52,48 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Bikalpa Baniya
-          subtitle: "I am a PhD student in the Economics Department at CU Boulder. Before this, I was a graduate student at UW Madison and UPenn studying Economics and Education respectively."
-          imageUrl: "Headshot.png"
+          title: Professor Dr von Igelfeld
+          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Bikalpa
           buttons:
             - name: Papers
               url: papers/
-            - name: Teaching
-              url: teaching/
-            - name: Others
-              url: others/
-
+            - name: Courses
+              url: courses/
+            - name: Data
+              url: data/
+            - name: Books
+              url: books/
+            - name: Tags
+              url: tags/
+            - name: Archive
+              url: archive/
+            - name: Blog
+              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: c1v.pdf
+          url: cv.pdf
         - name: Email
-          url: mailto:bikalpa.baniya@colorado.edu
+          url: mailto:moritz.maria.von.igelfeld@gmail.com
+        - name: Zoom
+          url: https://www.zoom.us/my/igelfeld
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: GitHub
-          url: https://github.com/bikalpa-baniya
+          url: https://github.com/pmichaillat
+        - name: Substack
+          url: https://pmichaillat.substack.com
+        - name: YouTube
+          url: https://www.youtube.com/@alexandermccallsmithoffici9000
         - name: Twitter
-          url: https://twitter.com/
+          url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
@@ -79,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Bikalpa Baniya"
+      text: "Moritz-Maria von Igelfeld"
       icon: favicon.ico
       iconHeight: 18
 
@@ -89,7 +111,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: autumn
     tableOfContents:
         endLevel: 2
         ordered: false
