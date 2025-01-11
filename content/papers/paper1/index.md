@@ -2,17 +2,17 @@
 title: "Unusual Uses For Olive Oil" 
 date: 2013-01-15
 lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+tags: ["economics"]
+author: ["Bikalpa Baniya"]
+description: "...." 
+summary: "Do interpersonal and cognitive skills adjust to skill mismatch? Re-cent papers have looked into the different characteristics of mismatchin skills. For example, Lise and Postel-Vinay (2020) find that cogni-tive skills adjust slowly and interpersonal skills are fixed over a life-time. However, they and most of the literature simulate the on-the-joblearning process. So, this paper revisits these results using NaturalLanguage Processing to incorporate unique data on the heterogeneityof learning within the same occupation. I find that interpersonal skillsdo adjust to skill mismatch, albeit slowly." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "Skill Mismatch with Worker-side Learning Heterogeneity"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    Text: "adf"
 
 ---
 
