@@ -1,4 +1,4 @@
 ---
-title: "Courses"
-description: "Materials on Economics by Bikalpa Baniya"
+title: "Others"
+description: "Others by Bikalpa Baniya"
 ---
