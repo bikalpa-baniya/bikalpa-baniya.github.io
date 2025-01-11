@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/hugo-website/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unusual Uses For Olive Oil</title>
-      <link>https://pascalmichaillat.org/hugo-website/papers/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/hugo-website/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+      <title>Skill Mismatch with Worker-side Learning Heterogeneity</title>
+      <link>https://bikalpa-baniya.github.io/papers/paper1/</link>
+      <pubDate>Tue, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://bikalpa-baniya.github.io/papers/paper1//</guid>
+      <description>Do interpersonal and cognitive skills adjust to skill mismatch? Recent papers have looked into the different characteristics of mismatchin skills. For example, Lise and Postel-Vinay (2020) find that cogni-tive skills adjust slowly and interpersonal skills are fixed over a life-time. However, they and most of the literature simulate the on-the-joblearning process. So, this paper revisits these results using NaturalLanguage Processing to incorporate unique data on the heterogeneityof learning within the same occupation. I find that interpersonal skillsdo adjust to skill mismatch, albeit slowly.</description>
     </item>
    
   </channel>
