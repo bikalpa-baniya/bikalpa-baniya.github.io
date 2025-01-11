@@ -38,8 +38,7 @@ disableAnchoredHeadings: false
 ## Awards and Certifications
 
 2019-2021 &nbsp;&nbsp;&nbsp; **Penn-UNESCO Fellow**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full tuition scholarship for study at Penn GSE
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Full tuition scholarship for study at Penn GSE
 
 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **UNESCO EdPlanning Hackathon Winner** 
 
