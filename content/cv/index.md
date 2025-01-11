@@ -45,3 +45,25 @@ disableAnchoredHeadings: false
 - 2015-2019 **Oberlin College Bonner Scholar**: Community service scholarship ([more](https://www.oberlin.edu/bcsl/programs/bonner-scholars))
 
 
+<table style="border-collapse: collapse;">
+  <tr>
+    <td>2021</td>
+    <td>Consultant</td>
+    <td>World Bank Group – Education Practice</td>
+    <td>Washington, DC</td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Data Science Intern</td>
+    <td>UNESCO – IIEP</td>
+    <td>Paris, France</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>Data Analyst</td>
+    <td>World Bank Group – Poverty and Equity Practice</td>
+    <td>Washington, DC</td>
+  </tr>
+</table>
+
+
