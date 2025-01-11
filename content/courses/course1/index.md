@@ -7,7 +7,7 @@ author: "Bikalpa Baniya"
 description: "Recitation Materials for Principles of Microeconomics" 
 summary: "These materials are my recitation materials for Econ 2010: Principles of Microeconomics" 
 cover:
-    image: "Supply-demand-equilibrium.svg"
+    image: "microeconomics.jpg"
     alt: "Principles of Microeconomics"
     relative: false
 editPost:
@@ -41,5 +41,5 @@ Additional notes based on frequently asked questions
 •    What if I forgot the direction of shifts in exam? Finding shift 
 
 
-
+![](Supply-demand-equilibrium.svg)
 
