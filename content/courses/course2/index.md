@@ -1,17 +1,17 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
-lastmod: 2024-07-12
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This undergraduate course discusses profanity in Early Irish." 
-summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
+title: "Econ 2020: Principles of Microeconomics - Recitation Materials" 
+date: 2025-01-09
+lastmod: 2025-01-10
+tags: ["Macroeconomics"]
+author: ["Bikalpa Baniya"]
+description: "Recitation Materials for Principles of Macroeconomics" 
+summary: "These materials are my recitation materials for Econ 2020: Principles of Macroeconomics" 
 cover:
-    image: "course2.png"
-    alt: "Figure caption"
+    image: "macroeconomics.jpg"
+    alt: "Principles of Macroeconomics"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://bikalpa-baniya.github.io/courses/course2/"
     Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
