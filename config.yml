@@ -11,18 +11,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
         - name: Papers
           url: papers/
+          weight: 1
+        - name: Teaching
+          url: teaching/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Others
+          url: others/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
 
 
 params:
@@ -52,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Bikalpa Baniya
-          subtitle: "Desc"
+          subtitle: "I am a PhD student in the Economics Department at CU Boulder. Before this, I was a graduate student at UW Madison and UPenn studying Economics and Education respectively."
           imageUrl: "Headshot.png"
           imageWidth: 160
           imageHeight: 160
@@ -60,12 +57,10 @@ params:
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
+            - name: Teaching
+              url: teaching/
+            - name: Others
+              url: others/
 
 
     socialIcons:
