@@ -53,12 +53,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
+          title: Bikalpa Baniya
           subtitle: "Desc"
           imageUrl: "Headshot.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Bikalpa
           buttons:
             - name: Papers
               url: papers/
