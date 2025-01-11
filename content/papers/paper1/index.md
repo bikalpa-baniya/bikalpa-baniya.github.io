@@ -28,7 +28,7 @@ editPost:
 
 ##### Abstract
 
-Do interpersonal and cognitive skills adjust to skill mismatch? Re-cent papers have looked into the different characteristics of mismatchin skills. For example, Lise and Postel-Vinay (2020) find that cogni-tive skills adjust slowly and interpersonal skills are fixed over a life-time. However, they and most of the literature simulate the on-the-joblearning process. So, this paper revisits these results using NaturalLanguage Processing to incorporate unique data on the heterogeneityof learning within the same occupation. I find that interpersonal skillsdo adjust to skill mismatch, albeit slowly
+Do interpersonal and cognitive skills adjust to skill mismatch? Recent papers have looked into the different characteristics of mismatchin skills. For example, Lise and Postel-Vinay (2020) find that cognitive skills adjust slowly and interpersonal skills are fixed over a life-time. However, they and most of the literature simulate the on-the-joblearning process. So, this paper revisits these results using NaturalLanguage Processing to incorporate unique data on the heterogeneity of learning within the same occupation. I find that interpersonal skills do adjust to skill mismatch, albeit slowly.
 
 ---
 
