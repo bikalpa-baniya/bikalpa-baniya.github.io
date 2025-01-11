@@ -17,6 +17,9 @@ menu:
         - name: Courses
           url: courses/
           weight: 3
+        - name: CV
+          url: cv/
+          weight: 4
 
 
 params:
@@ -56,6 +59,8 @@ params:
               url: papers/
             - name: Courses
               url: courses/
+            - name: CV
+              url: cv/
 
 
     socialIcons:
