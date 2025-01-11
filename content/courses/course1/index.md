@@ -1,6 +1,6 @@
 ---
 title: "Econ 2010: Principles of Microeconomics - Recitation Materials"
-date: 2024-01-15
+date: 2024-12-15
 lastmod: 2025-01-11
 tags: ["Microeconomics"]
 author: "Bikalpa Baniya"
