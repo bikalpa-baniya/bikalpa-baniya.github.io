@@ -55,7 +55,7 @@ params:
           enabled: true
           title: Professor Dr von Igelfeld
           subtitle: "Desc"
-          imageUrl: "picture.jpeg"
+          imageUrl: "Headshot.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Moritz-Maria von Igelfeld
