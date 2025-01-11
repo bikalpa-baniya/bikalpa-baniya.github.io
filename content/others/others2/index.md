@@ -7,7 +7,7 @@ author: ["Bikalpa Baniya"]
 description: "...." 
 summary: "Notes" 
 cover:
-    image: "paper1.png"
+    image: "Notes.jpeg"
     alt: "Notes"
     relative: false
 editPost:
