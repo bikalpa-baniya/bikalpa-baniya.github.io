@@ -37,21 +37,25 @@ disableAnchoredHeadings: false
 
 ## Awards and Certifications
 
-2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **US Census Bureau Special Sworn Status**
+2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **US Census Bureau Special Sworn Status**
+
+2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Award**
+
+2023-2025 &nbsp;&nbsp;&nbsp; ** Graduate Fellowship **
 
 2019-2021 &nbsp;&nbsp;&nbsp; **Penn-UNESCO Fellow**
 
 - Full tuition scholarship for study at Penn GSE
 
-2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **UNESCO EdPlanning Hackathon Winner** 
+2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **UNESCO EdPlanning Hackathon Winner** 
 
 - Provided a text-matching solution to efficiently identify school employees who are on a payroll but no longer work ([more](https://www.iiep.unesco.org/en/making-new-tools-part-plan-meet-winners-hacking-edplanning-13615))
 
-2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Jerome Davis Research Award** 
+2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Jerome Davis Research Award** 
 
 - Awarded for college capstone thesis entitled "Determinants of International Student flow to the US”
 
-2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Newman Civic Engagement Fellow**
+2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Newman Civic Engagement Fellow**
 
 - Nominated by the Oberlin College President out of 3000 students for commitment to service ([more](https://compact.org/current-programs/newman-civic-fellowship/newman-civic-fellows/bikalpa))
 
