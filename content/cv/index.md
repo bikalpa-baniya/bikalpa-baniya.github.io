@@ -37,6 +37,8 @@ disableAnchoredHeadings: false
 
 ## Awards and Certifications
 
+2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **US Census Bureau Special Sworn Status**
+
 2019-2021 &nbsp;&nbsp;&nbsp; **Penn-UNESCO Fellow**
 
 Full tuition scholarship for study at Penn GSE
