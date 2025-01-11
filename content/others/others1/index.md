@@ -1,6 +1,6 @@
 ---
 title: "Hiking Pics" 
-date: 2022-12-15
+date: 2024-12-15
 lastmod: 2024-07-12
 tags: ["Hiking"]
 author: ["Bikalpa Baniya"]
