@@ -23,9 +23,9 @@ disableAnchoredHeadings: false
 
 - BA in Economics (Writing and Communication Minor), **Oberlin College**, 2019 
 
-##`Experiences'
+## `Experiences'
 
-##Experiences
+## Experiences
 
 <table style="border-collapse: collapse;">
   <tr>
