@@ -55,7 +55,7 @@ params:
           enabled: true
           title: Bikalpa Baniya
           subtitle: "Desc"
-          imageUrl: "Headshot.jpeg"
+          imageUrl: "Headshot.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Bikalpa
