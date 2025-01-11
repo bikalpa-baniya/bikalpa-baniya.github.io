@@ -7,7 +7,7 @@ author: "Bikalpa Baniya"
 description: "Recitation Materials for Principles of Microeconomics" 
 summary: "These materials are my recitation materials for Econ 2010: Principles of Microeconomics" 
 cover:
-    image: "course1.png"
+    image: "Supply-demand-equilibrium.svg"
     alt: "Principles of Microeconomics"
     relative: false
 editPost:
