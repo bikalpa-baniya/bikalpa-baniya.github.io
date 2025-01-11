@@ -27,6 +27,10 @@ disableAnchoredHeadings: false
 
 ## Experiences
 
+2021    Consultant, World Bank Group – Education Practice; Washington, DC
+2021    Data Science Intern, UNESCO – IIEP; Paris, France
+2019    Data Analyst, World Bank Group – Poverty and Equity Practice; Washington, DC
+
 <table style="border-collapse: collapse;">
   <tr>
     <td>2021</td>
