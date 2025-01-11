@@ -26,6 +26,8 @@ disableAnchoredHeadings: false
 
 ## Experiences
 
+2024 &nbsp;&nbsp;&nbsp;   **Consultant**, Research Assistant for Prof. Richard Mansfield and Prof. Jeronimo Carballo
+
 2021 &nbsp;&nbsp;&nbsp;   **Consultant**, World Bank Group – Education Practice; Washington, DC
 
 2021 &nbsp;&nbsp;&nbsp;   **Data Science Intern**, UNESCO – IIEP; Paris, France
