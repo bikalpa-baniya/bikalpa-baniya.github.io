@@ -1,11 +1,11 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 date: 2024-12-15
 lastmod: 2025-01-11
 tags: ["CV"]
 author: "Bikalpa Baniya"
-description: "CV" 
-summary: "CV" 
+description: "Curriculum Vitae" 
+summary: "Curriculum Vitae" 
 
 editPost:
     URL: "https://bikalpa-baniya.github.io/cv/"
