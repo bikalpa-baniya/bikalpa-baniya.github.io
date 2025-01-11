@@ -23,13 +23,11 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+
 
 params:
     description: "Desc"
-    author: Moritz-Maria von Igelfeld
+    author: Bikalpa Baniya
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -86,7 +84,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Bikalpa Baniya"
       icon: favicon.ico
       iconHeight: 18
 
