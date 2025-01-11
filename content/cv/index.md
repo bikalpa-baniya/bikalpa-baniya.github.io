@@ -23,27 +23,9 @@ disableAnchoredHeadings: false
 
 - BA in Economics (Writing and Communication Minor), **Oberlin College**, 2019 
 
-`Experiences` 
+##`Experiences'
 
-- Consultant, **World Bank Group – Education Practice**; Washington, DC; March 2021 – July 2021
-
-- Data Science Intern, **UNESCO – IIEP**; Paris, France; December 2020 – April 2021
-
-- Data Analyst, **World Bank Group – Poverty and Equity Practice**; Washington, DC; June 2019 – August 2019
-
-
-`Awards` 
-
-- 2019-2021 **Penn-UNESCO Fellow**: Full tuition scholarship for study at Penn GSE
-
-- 2021 **UNESCO EdPlanning Hackathon Winner**: Provided a text-matching solution to efficiently identify school employees who are on a payroll but no longer work ([more](https://www.iiep.unesco.org/en/making-new-tools-part-plan-meet-winners-hacking-edplanning-13615))
-
-- 2019 **Jerome Davis Research Award**: Awarded for college capstone thesis entitled "Determinants of International Student flow to the US”
-
-- 2017 **Newman Civic Engagement Fellow**: Nominated by the Oberlin College President out of 3000 students for commitment to service ([more](https://compact.org/current-programs/newman-civic-fellowship/newman-civic-fellows/bikalpa))
-
-- 2015-2019 **Oberlin College Bonner Scholar**: Community service scholarship ([more](https://www.oberlin.edu/bcsl/programs/bonner-scholars))
-
+##Experiences
 
 <table style="border-collapse: collapse;">
   <tr>
@@ -65,5 +47,21 @@ disableAnchoredHeadings: false
     <td>Washington, DC</td>
   </tr>
 </table>
+
+
+`Awards` 
+
+- 2019-2021 **Penn-UNESCO Fellow**: Full tuition scholarship for study at Penn GSE
+
+- 2021 **UNESCO EdPlanning Hackathon Winner**: Provided a text-matching solution to efficiently identify school employees who are on a payroll but no longer work ([more](https://www.iiep.unesco.org/en/making-new-tools-part-plan-meet-winners-hacking-edplanning-13615))
+
+- 2019 **Jerome Davis Research Award**: Awarded for college capstone thesis entitled "Determinants of International Student flow to the US”
+
+- 2017 **Newman Civic Engagement Fellow**: Nominated by the Oberlin College President out of 3000 students for commitment to service ([more](https://compact.org/current-programs/newman-civic-fellowship/newman-civic-fellows/bikalpa))
+
+- 2015-2019 **Oberlin College Bonner Scholar**: Community service scholarship ([more](https://www.oberlin.edu/bcsl/programs/bonner-scholars))
+
+
+
 
 
