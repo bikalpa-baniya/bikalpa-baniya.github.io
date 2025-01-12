@@ -34,7 +34,7 @@ disableAnchoredHeadings: false
 ##   Monopolistic Competition + Midterm II Review
 ##   Externalities and Public Goods + Final Exam Review
 ##    Taxes + Final Exam Review
-##     Final Exam Review
+
 
 
  
