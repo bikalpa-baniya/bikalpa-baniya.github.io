@@ -36,9 +36,11 @@ disableAnchoredHeadings: false
 ##   Week 15, Week 15 Solutions: Taxes + Final Exam Review
 ##    Week 16: Final Exam Review
 
-![](Supply-demand-equilibrium.svg)
+<p align="center">
+  ![](Supply-demand-equilibrium.svg)
+</p>
 
-#Additional notes based on frequently asked questions
+# Additional notes based on frequently asked questions
 -   Does price-decrease increase Demand? No! Demand vs Quantity Demanded 
 -   Which direction does demand or supply curve shift? Shift in Curves 
 -   What if I forgot the direction of shifts in exam? Finding shift 
