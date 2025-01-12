@@ -19,7 +19,6 @@ disableAnchoredHeadings: false
 ---
   ![](Supply-demand-equilibrium.svg)
 
-# Materials 
 
 ##   Opportunity Cost and Trade
 ##    Supply and Demand
