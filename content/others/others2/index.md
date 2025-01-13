@@ -23,7 +23,7 @@ editPost:
 
 
 - Real Analysis: Modern Techniques and Their Applications by Gerald Folland,  [notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EciptZceIw1IpU-mHaE6yL4B8TxfwNau9dqEVSYNJHRC8A?e=oQrD1Y) (In progress)
-- Microeconomic Theory 1st Edition by Andreu Mas-Colell, Michael D. Whinston and Jerry R. Green, [notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EQYr7sUW9XNDrrYGIHC0UIYBWi17GEjNayEXfyGREfOS0Q?e=gPNrVF)
+- Microeconomic Theory by Andreu Mas-Colell, Michael D. Whinston and Jerry R. Green, [notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EQYr7sUW9XNDrrYGIHC0UIYBWi17GEjNayEXfyGREfOS0Q?e=gPNrVF)
 
 
 
