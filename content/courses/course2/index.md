@@ -26,8 +26,11 @@ disableAnchoredHeadings: false
 ## Interdependence & Gains from Trade
 ### Production Possibility Forntier
 
+<img src="Ch2_PPF.png" alt="Ch2_PPF" width="300">
+
 - Production efficiency means that there is no way to produce more of one good without producing less of other goods
-- asdfads
+- A: 
+- B: 
 
 
     
