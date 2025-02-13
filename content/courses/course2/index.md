@@ -36,7 +36,18 @@ disableAnchoredHeadings: false
 - A: Amount of oil produced if the country only produces oil
 - B: Amount of cards produced if the country only produces cars
 
+### Oppoutunity cost and PPF
 
+<p align="center">
+  <img src="Ch2_PPF_OC.png" alt="Ch2_PPF" width="400">
+</p>
+
+### Positive statement vs Normative statement
+
+- Positive statement - Statement that are testable
+  - Example: The unempolyent rate is 4%
+- Normative statement - Statement that are based on opinions
+  - Example: The unemployment rate should be 0%
 
 
     
