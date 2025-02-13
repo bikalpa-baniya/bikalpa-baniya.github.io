@@ -20,6 +20,9 @@ disableAnchoredHeadings: false
 
 ## Ten Principles of Macroeconomics
 ## Thinking Like an Economist
+- Economics is about trade-offs
+- Opportunity Cost
+  - Definition; 
 ## Interdependence & Gains from Trade
 ## Application to International Trade
 ## Measuring a Nation's Income
