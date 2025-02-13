@@ -95,36 +95,33 @@ Additional notes:
 
 Conside two countries that produce either IPhones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people avaiable to work respectively. 
 
+<p align="center">
 |           | Video Games      | IPhones  |
 |-----------|-----------   |-----------   |
 | USA       | 12           | 24           |
 | China     | 8            | 32           |
+</p>
 
-1. Which country has the comparative advantage in producing video games?
+#### Which country has the comparative advantage in producing video games?
 
 <button onclick="document.getElementById('solution').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
 <div id="solution" style="display:none;">
-
-Step 1: Equate production if the country only produced either of the good
-
+<u>Step 1<\u>: Equate production if the country only produced either of the good
 - USA
 $$ 12 * 100 \text{Video Games} = 24 * 100\text{IPhones}$$
 - China
 $$ 8 * 200 \text{Video Games} = 32 * 200\text{IPhones}$$
-
-Step 2: Since we are interested in the opprtunity cost of video Games, make the right hand side 1. 
-
+<u>Step 2<\u>: Since we are interested in the opprtunity cost of video Games, make the right hand side 1. 
 - USA
 $$ 1 \text{Video Games} = \frac{24 * 100}{12*100}\text{IPhones}=2 \text{IPhones}$$
 - China
 $$ 1 \text{Video Games} = \frac{32 * 100}{8*100}\text{IPhones}=4 \text{IPhones}$$
-
-Step 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is USA. So, USA has the comparative advantage in producing video games. 
+<u>Step 3<\u>: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is USA. So, USA has the comparative advantage in producing video games. 
 </div>
 
 
-2. Which country has the comparative advantage in producing video games?
+#### Which country has the comparative advantage in producing video games?
 
 <button onclick="document.getElementById('solution').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
