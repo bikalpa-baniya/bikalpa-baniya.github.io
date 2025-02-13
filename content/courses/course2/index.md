@@ -102,7 +102,7 @@ Conside two countries that produce either IPhones or video games. The following 
 
 1. Which country has the comparative advantage in producing IPhone
 
-<button onclick="document.getElementById('solution').style.display='block'">Show Solution</button>
+<button onclick="document.getElementById('solution').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
 <div id="solution" style="display:none;">
     **Solution:** The answer is 4.
@@ -117,6 +117,8 @@ Conside two countries that produce either IPhones or video games. The following 
 
 ---
 ## Measuring a Nation's Income
+
+$$GDP = Consumption + Investment + Gorverment Expenditure + \text{Export} - \text{Import}$$
 ---
 ## Measuring Prices & Cost fo Living
 ---
