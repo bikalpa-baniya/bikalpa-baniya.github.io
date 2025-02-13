@@ -22,8 +22,9 @@ disableAnchoredHeadings: false
 ## Thinking Like an Economist
 - Economics is about trade-offs
 - Opportunity Cost
-  - Definition; 
+  - Definition: It is defined as the value of the next best alternative. It is the value you forgo when you make a choice.
 ## Interdependence & Gains from Trade
+- 
 ## Application to International Trade
 ## Measuring a Nation's Income
 ## Measuring Prices & Cost fo Living
