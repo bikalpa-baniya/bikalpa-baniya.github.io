@@ -93,12 +93,14 @@ Additional notes:
 
 ### Calcuating Comparative Advantage
 
-Conside two countries that produce either iphones or video games. The following table shows 
+Conside two countries that produce either IPhones or video games. The following table shows the number of people required to build one of either. Suppose each country has 100 million people avaiable to work. 
 
-| Header 1  | Header 2  | Header 3  |
-|-----------|-----------|-----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+|           | IPhones      | Video Games  |
+|-----------|-----------   |-----------   |
+| USA       | 12 | 24 |
+| China     | 8 | 32 |
+
+
 
 ### Gains from Trade 
 - Main idea: Trade allows countries to consume at a level in the PPF that is otherwise infeasible 
