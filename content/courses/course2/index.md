@@ -123,7 +123,7 @@ $$ 1 \text{ Video Game} = \frac{24 * 100}{12*100}\text{ IPhones}=2 \text{ IPhone
 $$ 1 \text{ Video Game} = \frac{32 * 100}{8*100}\text{ IPhones}=4 \text{ IPhones}$$
 
 
-STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is USA. So, USA has the comparative advantage in producing video games. 
+STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is the USA. So, USA has the comparative advantage in producing video games. 
 </div>
 
 
