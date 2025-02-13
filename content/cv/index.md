@@ -43,7 +43,7 @@ disableAnchoredHeadings: false
 
 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Award**
 
-2023-2025 &nbsp;&nbsp; **Graduate Fellowship**
+2023-2025 &nbsp;&nbsp; **CU Boulder Graduate Fellowship**
 
 2019-2021 &nbsp;&nbsp;&nbsp; **Penn-UNESCO Fellow**
 
