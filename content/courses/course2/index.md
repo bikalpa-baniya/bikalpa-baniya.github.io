@@ -26,15 +26,19 @@ disableAnchoredHeadings: false
 # Interdependence & Gains from Trade
 ## Production Possibility Forntier
 
+- Production efficiency means that there is no way to produce more of one good without producing less of other goods
+- 
+
+
     
-## Application to International Trade
-## Measuring a Nation's Income
-## Measuring Prices & Cost fo Living
-## Production & Economic Growth
-## Savings, Investment & the Financial System
-## Unemployment
-## The Monetary System
-## Money Growth & Inflation 
-## Open-Economy Macro: The Basics
-## Aggregate Demand & Aggregate Supply
-## Monetary & Fiscal Policies
+# Application to International Trade
+# Measuring a Nation's Income
+# Measuring Prices & Cost fo Living
+# Production & Economic Growth
+# Savings, Investment & the Financial System
+# Unemployment
+# The Monetary System
+# Money Growth & Inflation 
+# Open-Economy Macro: The Basics
+# Aggregate Demand & Aggregate Supply
+# Monetary & Fiscal Policies
