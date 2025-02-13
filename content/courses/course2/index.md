@@ -19,10 +19,12 @@ disableAnchoredHeadings: false
 ---
 
 ## Ten Principles of Macroeconomics
+---
 ## Thinking Like an Economist
 - Economics is about trade-offs
 - Opportunity Cost
   - Definition: It is defined as the value of the next best alternative. It is the value you forgo when you make a choice.
+---
 ## Interdependence & Gains from Trade
 ### Production Possibility Forntier (PPF)
 
@@ -38,10 +40,18 @@ disableAnchoredHeadings: false
 
 ### Oppoutunity cost and PPF
 
+- What is the opporunity cost of going from point C to D? 
+
 <p align="center">
   <img src="Ch2_PPF_OC.png" alt="Ch2_PPF" width="400">
 </p>
 
+
+
+- Shape of PPF
+ - If the PPF is a straight line the opporunity cost is constant
+ - If the PPF is bowing outwards the opporunity cost in increasing
+ - If the PPF is bowing inwards the opporunity cost in decreasing
 ### Positive statement vs Normative statement
 
 - Positive statement - Statement that are testable
@@ -50,9 +60,11 @@ disableAnchoredHeadings: false
   - Example: The unemployment rate should be 0%
 
 
-    
+---
 ## Application to International Trade
+---
 ## Measuring a Nation's Income
+---
 ## Measuring Prices & Cost fo Living
 ## Production & Economic Growth
 ## Savings, Investment & the Financial System
