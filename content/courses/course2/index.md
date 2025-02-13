@@ -142,7 +142,7 @@ STEP 3: Find which country has the smaller opportunity cost (or who has to give 
 ## Measuring a Nation's Income
 
 The formula of GPD is 
-$$GDP = C + I + G + Ex - Im$$
+$$ GDP = C + I + G + Ex - Im $$
 
 ,where
 - $C$ is consumption 
@@ -151,13 +151,17 @@ $$GDP = C + I + G + Ex - Im$$
 - $Ex$ is the nation's export 
 - $Im$ is the nation's import 
 
-$$\text{GDP Deflator}=100 * \frac{\text{Nominal GDP}}{\text{Real GDP}}$$
+$$ \text{GDP Deflator}=100 * \frac{\text{Nominal GDP}}{\text{Real GDP}} $$
 
 The inflation rate between year X and year Y (where X>Y) is given by 
-$$\text{Inflation Rate}=100 * \frac{\text{GDP Deflator at year X}- \text{GDP Deflator at year Y}}{\text{\text{GDP Deflator at year Y}}}$$
+$$   \text{Inflation Rate}=100 * \frac{   \text{GDP Deflator at year X}- \text{GDP Deflator at year Y}  }{ \text{GDP Deflator at year Y} }  $$
 
 ---
 ## Measuring Prices & Cost of Living
+
+,
+The formula for CPI is  
+$$ CPI = \frac{1}{2}$$
 ---
 ## Production & Economic Growth
 ---
