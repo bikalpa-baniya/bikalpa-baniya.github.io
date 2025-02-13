@@ -60,8 +60,11 @@ $$ \frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} 
 $$ \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
 
 
-$$ \frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} \\
- \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
+$$ 
+\begin{align}
+\frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} \\
+ \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} 
+\end{align} $$
 
 
 
