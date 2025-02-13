@@ -95,8 +95,13 @@ Additional notes:
 
 Conside two countries that produce either iphones or video games. The following table shows 
 
+| Header 1  | Header 2  | Header 3  |
+|-----------|-----------|-----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
 ### Gains from Trade 
-- Main idea: **Trade allows countries to consume at a level in the PPF that is otherwise infeasible **
+- Main idea: Trade allows countries to consume at a level in the PPF that is otherwise infeasible 
 - See Chapter 3 Question 3 
 
 ---
