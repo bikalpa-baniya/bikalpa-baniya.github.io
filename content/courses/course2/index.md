@@ -60,12 +60,6 @@ $$ \frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} 
 $$ \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
 
 
-$$ 
-\begin{align}
-\frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} \\
- \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} 
-\end{align} $$
-
 
 
 So, moving from C to B requies giving up 10 mil barrels of oil. 
@@ -96,10 +90,6 @@ Additional notes:
     - A country (individual) has an comparative advantage if it can produce a particular good or service with lower opportunity cost
     - In other words, they have to give up less
     - Gains from trade are based on comparative advantage
-- Example from Microeconomics 
-    - Consider the two centers from the 2024 Denver Nuggets: Nikola Jokic and DeAndre Jordan.
-    - Assume that Nikola Jokic is better than DeAndre Jordan at all facets of basketball. In other words, * Jokic has an absolute advantage *.
-    - However, unlike Jokic, Jordan specializes in rebounding. So, it does not cost Jordan as much if he just rebounds the entire game (his opportunity cost for is lower). So, even if Jokic might be a better rebounder, * Jordan has an comparative advantage in rebounding *.
 
 ### Calcuating Comparative Advantage
 
