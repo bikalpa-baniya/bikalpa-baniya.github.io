@@ -104,9 +104,7 @@ Conside two countries that produce either Iphones or video games. The following 
 
 #### Question: Which country has the comparative advantage in producing video games?
 
-<button onclick="document.getElementById('solution1').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
-<div id="solution" style="display:none;">
 STEP 1: Equate production if the country only produced either of the good
 
 - USA
@@ -126,14 +124,12 @@ $$ 1 \text{ Video Game} = \frac{32 * 200}{8*200}\text{ Iphones}$$
 $$ \Leftrightarrow 1 \text{ Video Game} = 4 \text{ Iphones}$$
 
 STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is the USA. So, USA has the comparative advantage in producing video games. 
-</div>
+
 
 
 #### Question: Which country has the comparative advantage in producing Iphones?
 
-<button onclick="document.getElementById('solution2').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
-<div id="solution" style="display:none;">
 
 STEP 1: Equate production if the country only produced either of the good
 
@@ -155,7 +151,7 @@ $$ \Leftrightarrow \frac{1}{4} \text{Video Games} = 1 \text{ Iphones}$$
 
 STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is China. So, China has the comparative advantage in producing Iphones. 
     
-</div>
+
 
 
 
