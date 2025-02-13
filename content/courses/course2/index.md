@@ -151,6 +151,9 @@ $$GDP = C + I + G + Ex - Im$$
 
 $$\text{GDP Deflator}=100 * \frac{\text{Nominal GDP}}{\text{Real GDP}}$$
 
+The inflation rate between year X and year Y (where X>Y) is given by 
+$$\text{Inflation Rate}=100 * \frac{\text{GDP Deflator at year X}- \text{GDP Deflator at year Y}}{\text{\text{GDP Deflator at year Y}}}$$
+
 ---
 ## Measuring Prices & Cost of Living
 ---
