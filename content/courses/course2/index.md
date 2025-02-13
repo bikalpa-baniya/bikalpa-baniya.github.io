@@ -18,6 +18,8 @@ disableAnchoredHeadings: false
 
 ---
 
+The following notes are based on Mankiw, *Principles of Macroeconomics*, 10th Edition
+---
 ## Ten Principles of Macroeconomics
 ---
 ## Thinking Like an Economist
