@@ -93,16 +93,16 @@ Additional notes:
 
 ### Calcuating Comparative Advantage
 
-Conside two countries that produce either IPhones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people avaiable to work respectively. 
+Conside two countries that produce either Iphones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people avaiable to work respectively. 
 
 
-|           | Video Games      | IPhones  |
+|           | Video Games      | Iphones  |
 |-----------|-----------   |-----------   |
 | USA       | 12           | 24           |
 | China     | 8            | 32           |
 
 
-#### Which country has the comparative advantage in producing video games?
+#### Question: Which country has the comparative advantage in producing video games?
 
 <button onclick="document.getElementById('solution').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
@@ -110,29 +110,48 @@ Conside two countries that produce either IPhones or video games. The following 
 STEP 1: Equate production if the country only produced either of the good
 
 - USA
-$$ 12 * 100 \text{Video Games} = 24 * 100\text{IPhones}$$
+$$ 12 * 100 \text{Video Games} = 24 * 100\text{Iphones}$$
 - China
-$$ 8 * 200 \text{ Video Game} = 32 * 200\text{ IPhones}$$
+$$ 8 * 200 \text{ Video Game} = 32 * 200\text{ Iphones}$$
 
 
-STEP 2: Since we are interested in the opprtunity cost of video Games, make the right hand side 1. 
+STEP 2: Since we are interested in the opprtunity cost of video Games, make the left hand side 1. 
 
 - USA
-$$ 1 \text{ Video Game} = \frac{24 * 100}{12*100}\text{ IPhones}=2 \text{ IPhones}$$
+$$ 1 \text{ Video Game} = \frac{24 * 100}{12*100}\text{ Iphones}$$
+$$ 1 \text{ Video Game} = 2 \text{ Iphones}$$
 - China
-$$ 1 \text{ Video Game} = \frac{32 * 100}{8*100}\text{ IPhones}=4 \text{ IPhones}$$
-
+$$ 1 \text{ Video Game} = \frac{32 * 200}{8*200}\text{ Iphones}}$$
+$$ 1 \text{ Video Game} = 4 \text{ Iphones}$$
 
 STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is the USA. So, USA has the comparative advantage in producing video games. 
 </div>
 
 
-#### Which country has the comparative advantage in producing video games?
+#### Question: Which country has the comparative advantage in producing Iphones?
 
 <button onclick="document.getElementById('solution').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
 <div id="solution" style="display:none;">
 
+STEP 1: Equate production if the country only produced either of the good
+
+- USA
+$$ 12 * 100 \text{Video Games} = 24 * 100\text{ Iphones}$$
+- China
+$$ 8 * 200 \text{ Video Game} = 32 * 200\text{ Iphones}$$
+
+
+STEP 2: Since we are now interested in the opprtunity cost of Iphones, make the right hand side 1. 
+
+- USA
+$$\frac{12 * 100}{24*100} \text{Video Games} = 1\text{ Iphones}$$
+$$\frac{1}{2} \text{Video Games} = 1 \text{ Iphones}$$
+- China
+$$\frac{8 * 200}{32*200} \text{Video Games} = 1 \text{ Iphones}$$
+$$\frac{1}{4} \text{Video Games} = 1 \text{ Iphones}$$
+
+STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is China. So, China has the comparative advantage in producing Iphones. 
     
 </div>
 
@@ -154,6 +173,8 @@ $$ GDP = C + I + G + Ex - Im $$
 - $G$ is goverment expenditure 
 - $Ex$ is the nation's export 
 - $Im$ is the nation's import 
+
+GDP deflator is given by 
 
 $$ \text{GDP Deflator}=100 * \frac{\text{Nominal GDP}}{\text{Real GDP}} $$
 
