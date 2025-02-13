@@ -81,15 +81,16 @@ Additional notes:
 ### Comparative Advantage vs Absolute Advantage
 
 - Absolute advantage
-    - An individual has an absolute advantage if they can produce a good or service more e"ciently than others
-    - Absolute advantage has nothing to do with gains from trade
+    - A country (individual) has an absolute advantage if it can produce a good or service more than others
+    - Absolute advantage has nothing to do with gains from trade 
 - Comparative advantage
-    - An individual has an absolute advantage if they can produce a particular good or service with opportunity cost of producing the good is lower for that country than for the other.
+    - A country (individual) has an comparative advantage if it can produce a particular good or service with lower opportunity cost
+    - In other words, they have to give up less
     - Gains from trade are based on comparative advantage
 - Example from Microeconomics 
     - Consider the two centers from the 2024 Denver Nuggets: Nikola Jokic and DeAndre Jordan.
-    - Assume that Nikola Jokic is better than DeAndre Jordan at all facets of basketball. In other words, \textbf{Jokic has an absolute advantage}.
-    - However, unlike Jokic, Jordan specializes in rebounding. So, it does not cost Jordan as much if he just rebounds the entire game (his opportunity cost for is lower). So, even if Jokic might be a better rebounder, \textbf{Jordan has an comparative advantage in rebounding}.
+    - Assume that Nikola Jokic is better than DeAndre Jordan at all facets of basketball. In other words, **Jokic has an absolute advantage**.
+    - However, unlike Jokic, Jordan specializes in rebounding. So, it does not cost Jordan as much if he just rebounds the entire game (his opportunity cost for is lower). So, even if Jokic might be a better rebounder, **Jordan has an comparative advantage in rebounding**.
 
 ### Calcuating Comparative Advantage
 
@@ -98,11 +99,20 @@ Additional notes:
 ## Measuring a Nation's Income
 ---
 ## Measuring Prices & Cost fo Living
+---
 ## Production & Economic Growth
+---
 ## Savings, Investment & the Financial System
+---
 ## Unemployment
+---
 ## The Monetary System
+---
 ## Money Growth & Inflation 
+---
 ## Open-Economy Macro: The Basics
+---
 ## Aggregate Demand & Aggregate Supply
+---
 ## Monetary & Fiscal Policies
+---
