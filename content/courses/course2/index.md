@@ -142,6 +142,7 @@ Step 3: Find which country has the smaller opportunity cost (or who has to give 
 ---
 ## Measuring a Nation's Income
 
+The formula of GPD is 
 $$GDP = C + I + G + Ex - Im$$
 
 ,where
