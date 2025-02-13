@@ -24,13 +24,19 @@ disableAnchoredHeadings: false
 - Opportunity Cost
   - Definition: It is defined as the value of the next best alternative. It is the value you forgo when you make a choice.
 ## Interdependence & Gains from Trade
-### Production Possibility Forntier
+### Production Possibility Forntier (PPF)
 
-<img src="Ch2_PPF.png" alt="Ch2_PPF" width="300">
+- The following is the PPF for a country that only produces oil and cars. 
+
+<p align="center">
+  <img src="Ch2_PPF.png" alt="Ch2_PPF" width="400">
+</p>
 
 - Production efficiency means that there is no way to produce more of one good without producing less of other goods
-- A: 
-- B: 
+- A: Amount of oil produced if the country only produces oil
+- B: Amount of cards produced if the country only produces cars
+
+
 
 
     
