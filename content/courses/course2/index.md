@@ -104,7 +104,7 @@ Conside two countries that produce either Iphones or video games. The following 
 
 #### Question: Which country has the comparative advantage in producing video games?
 
-<button onclick="document.getElementById('solution').style.display='block'"><span style="color: blue;">Show Solution</span></button>
+<button onclick="document.getElementById('solution1').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
 <div id="solution" style="display:none;">
 STEP 1: Equate production if the country only produced either of the good
@@ -131,7 +131,7 @@ STEP 3: Find which country has the smaller opportunity cost (or who has to give 
 
 #### Question: Which country has the comparative advantage in producing Iphones?
 
-<button onclick="document.getElementById('solution').style.display='block'"><span style="color: blue;">Show Solution</span></button>
+<button onclick="document.getElementById('solution2').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
 <div id="solution" style="display:none;">
 
