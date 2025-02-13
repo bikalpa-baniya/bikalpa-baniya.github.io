@@ -46,7 +46,11 @@ disableAnchoredHeadings: false
   <img src="Ch2_PPF_OC.png" alt="Ch2_PPF" width="400">
 </p>
 
+1. Equate production if the country only produced either of the good
 
+$$ 50 \text{ mil barrels of oil} = 30 \text{ hundred thousand cars}$$
+
+- Economic growth results in the PPF shifting outwards
 
 - Shape of PPF
  - If the PPF is a straight line the opporunity cost is constant
