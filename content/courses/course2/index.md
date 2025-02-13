@@ -95,29 +95,29 @@ Additional notes:
 
 Conside two countries that produce either IPhones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people avaiable to work respectively. 
 
-<div align="center">
+
 |           | Video Games      | IPhones  |
 |-----------|-----------   |-----------   |
 | USA       | 12           | 24           |
 | China     | 8            | 32           |
-</div>
+
 
 #### Which country has the comparative advantage in producing video games?
 
 <button onclick="document.getElementById('solution').style.display='block'"><span style="color: blue;">Show Solution</span></button>
 
 <div id="solution" style="display:none;">
-<u> Step 1 <\u>: Equate production if the country only produced either of the good
+STEP 1: Equate production if the country only produced either of the good
 - USA
 $$ 12 * 100 \text{Video Games} = 24 * 100\text{IPhones}$$
 - China
 $$ 8 * 200 \text{Video Games} = 32 * 200\text{IPhones}$$
-<u> Step 2 <\u>: Since we are interested in the opprtunity cost of video Games, make the right hand side 1. 
+STEP 2: Since we are interested in the opprtunity cost of video Games, make the right hand side 1. 
 - USA
 $$ 1 \text{Video Games} = \frac{24 * 100}{12*100}\text{IPhones}=2 \text{IPhones}$$
 - China
 $$ 1 \text{Video Games} = \frac{32 * 100}{8*100}\text{IPhones}=4 \text{IPhones}$$
-<u> Step 3 <\u>: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is USA. So, USA has the comparative advantage in producing video games. 
+STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is USA. So, USA has the comparative advantage in producing video games. 
 </div>
 
 
@@ -148,8 +148,11 @@ $$GDP = C + I + G + Ex - Im$$
 - $G$ is goverment expenditure 
 - $Ex$ is the nation's export 
 - $Im$ is the nation's import 
+
+$$\text{GDP Deflator}=100 * \frac{\text{Nominal GDP}}{\text{Real GDP}}$$
+
 ---
-## Measuring Prices & Cost fo Living
+## Measuring Prices & Cost of Living
 ---
 ## Production & Economic Growth
 ---
