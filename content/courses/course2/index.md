@@ -17,9 +17,9 @@ showToc: true
 disableAnchoredHeadings: false
 
 ---
+
 The following notes are based on Mankiw, *Principles of Macroeconomics*, 10th Edition
----
-## Ten Principles of Macroeconomics
+
 ---
 ## Thinking Like an Economist
 - Economics is about trade-offs
@@ -57,7 +57,7 @@ $$ \frac{50}{30} \text{ mil barrels of oil} = 1 \text{ hundred thousand cars}$$
 Step 3: Car production increases by $15-9=6$ so make the right hand side 6 by multiplying both sides by 6
 
 $$ \frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
-$$ 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
+$$ \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
 
 So, moving from C to B requies giving up 10 mil barrels of oil. 
 
@@ -81,7 +81,7 @@ Additional notes:
 ### Comparative Advantage vs Absolute Advantage
 
 - Absolute advantage
-    - A country (individual) has an absolute advantage if it can produce a good or service more than others
+    - A country (individual) has an absolute advantage if it can produce more good or service than others
     - Absolute advantage has nothing to do with gains from trade 
 - Comparative advantage
     - A country (individual) has an comparative advantage if it can produce a particular good or service with lower opportunity cost
@@ -94,6 +94,7 @@ Additional notes:
 
 ### Calcuating Comparative Advantage
 
+Conside two countries that produce either iphones or video games. The following table shows 
 
 ### Gains from Trade 
 - Main idea: **Trade allows countries to consume at a level in the PPF that is otherwise infeasible **
