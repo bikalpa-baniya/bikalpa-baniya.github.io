@@ -122,7 +122,7 @@ $$ 1 \text{ Video Game} = \frac{24 * 100}{12*100}\text{ Iphones}$$
 $$ 1 \text{ Video Game} = 2 \text{ Iphones}$$
 - China
 
-$$ 1 \text{ Video Game} = \frac{32 * 200}{8*200}\text{ Iphones}}$$
+$$ 1 \text{ Video Game} = \frac{32 * 200}{8*200}\text{ Iphones}$$
 $$ 1 \text{ Video Game} = 4 \text{ Iphones}$$
 
 STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is the USA. So, USA has the comparative advantage in producing video games. 
