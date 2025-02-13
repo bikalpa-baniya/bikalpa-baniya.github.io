@@ -113,7 +113,7 @@ $$ 12 * 100 \text{Video Games} = 24 * 100\text{IPhones}$$
 - China
 $$ 8 * 200 \text{Video Games} = 32 * 200\text{IPhones}$$
 
-Step 2: Since we are interested in the opprtunity cost of Video Games, make the right hand side 1. 
+Step 2: Since we are interested in the opprtunity cost of video Games, make the right hand side 1. 
 
 - USA
 $$ 1 \text{Video Games} = \frac{24 * 100}{12*100}\text{IPhones}=2 \text{IPhones}$$
