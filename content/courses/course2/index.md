@@ -113,12 +113,16 @@ STEP 1: Equate production if the country only produced either of the good
 $$ 12 * 100 \text{Video Games} = 24 * 100\text{IPhones}$$
 - China
 $$ 8 * 200 \text{ Video Game} = 32 * 200\text{ IPhones}$$
+
+
 STEP 2: Since we are interested in the opprtunity cost of video Games, make the right hand side 1. 
 
 - USA
 $$ 1 \text{ Video Game} = \frac{24 * 100}{12*100}\text{ IPhones}=2 \text{ IPhones}$$
 - China
 $$ 1 \text{ Video Game} = \frac{32 * 100}{8*100}\text{ IPhones}=4 \text{ IPhones}$$
+
+
 STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is USA. So, USA has the comparative advantage in producing video games. 
 </div>
 
@@ -153,15 +157,16 @@ $$ GDP = C + I + G + Ex - Im $$
 
 $$ \text{GDP Deflator}=100 * \frac{\text{Nominal GDP}}{\text{Real GDP}} $$
 
-The inflation rate between year X and year Y (where X>Y) is given by 
+The inflation rate between year $X$ and year $Y$ (where $X>Y$) is given by 
 $$   \text{Inflation Rate}=100 * \frac{   \text{GDP Deflator at year X}- \text{GDP Deflator at year Y}  }{ \text{GDP Deflator at year Y} }  $$
 
 ---
 ## Measuring Prices & Cost of Living
 
-,
-The formula for CPI is  
-$$ CPI = \frac{1}{2}$$
+The formula for CPI is 
+$$CPI = \frac{1}{2}$$
+
+
 ---
 ## Production & Economic Growth
 ---
