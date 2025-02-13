@@ -56,14 +56,13 @@ $$ \frac{50}{30} \text{ mil barrels of oil} = 1 \text{ hundred thousand cars}$$
 
 Step 3: Car production increases by $15-9=6$ so make the right hand side 6 by multiplying both sides by 6
 
-$$ 
-&\frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} \\
-\Leftrightarrow & 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} 
-$$
+$$ \frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} \\
+\Leftrightarrow  10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
 
 
 
-Additional notes
+
+Additional notes: 
 - Economic growth results in the PPF shifting outwards
 - Shape of PPF
     - If the PPF is a straight line the opporunity cost is constant
@@ -72,9 +71,9 @@ Additional notes
 ### Positive statement vs Normative statement
 
 - Positive statement - Statement that are testable
-  - Example: The unempolyent rate is 4%
+    - Example: The unempolyent rate is 4%
 - Normative statement - Statement that are based on opinions
-  - Example: The unemployment rate should be 0%
+    - Example: The unemployment rate should be 0%
 
 
 ---
