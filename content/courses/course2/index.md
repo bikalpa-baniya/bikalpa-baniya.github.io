@@ -56,14 +56,13 @@ $$ \frac{50}{30} \text{ mil barrels of oil} = 1 \text{ hundred thousand cars}$$
 
 Step 3: Car production increases by $15-9=6$ so make the right hand side 6 by multiplying both sides by 6
 
-$$ 
-\begin{aligned}
+$$ \begin{align}
 \frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} \\
 \Leftrightarrow  10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars}
-\end{aligned}
+\end{align}
 $$
 
-So, 
+So, moving from C to B requies giving up 10 mil barrels of oil. 
 
 Additional notes: 
 - Economic growth results in the PPF shifting outwards
