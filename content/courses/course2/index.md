@@ -164,6 +164,8 @@ STEP 3: Find which country has the smaller opportunity cost (or who has to give 
 ---
 ## Measuring a Nation's Income
 
+
+
 The formula of GPD is 
 $$ GDP = C + I + G + Ex - Im $$
 
@@ -173,6 +175,9 @@ $$ GDP = C + I + G + Ex - Im $$
 - $G$ is goverment expenditure 
 - $Ex$ is the nation's export 
 - $Im$ is the nation's import 
+
+
+### GDP deflator and Inflation Rate
 
 GDP deflator is given by 
 
@@ -184,8 +189,16 @@ $$   \text{Inflation Rate}=100 * \frac{   \text{GDP Deflator at year X}- \text{G
 ---
 ## Measuring Prices & Cost of Living
 
+### CPI and Basket of Goods
 The formula for CPI is 
-$$CPI = \frac{1}{2}$$
+$$CPI = \frac{\text{Basket Cost in Current Year}}{\text{Basket Cost in Base Year}}$$
+
+### CPI vs GDP Deflator
+
+### Interest Rate
+
+The real interest rate is given by 
+$$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rate}$$
 
 
 ---
