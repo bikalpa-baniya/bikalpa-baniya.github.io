@@ -95,6 +95,10 @@ Additional notes:
 ### Calcuating Comparative Advantage
 
 
+### Gains from Trade 
+- Main idea: **Trade allows countries to consume at a level in the PPF that is otherwise infeasible **
+- See Chapter 3 Question 3 
+
 ---
 ## Measuring a Nation's Income
 ---
