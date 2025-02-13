@@ -56,11 +56,8 @@ $$ \frac{50}{30} \text{ mil barrels of oil} = 1 \text{ hundred thousand cars}$$
 
 Step 3: Car production increases by $15-9=6$ so make the right hand side 6 by multiplying both sides by 6
 
-$$ \begin{align}
-\frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} \\
-\Leftrightarrow  10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars}
-\end{align}
-$$
+$$ \frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
+$$ 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
 
 So, moving from C to B requies giving up 10 mil barrels of oil. 
 
@@ -80,6 +77,23 @@ Additional notes:
 
 ---
 ## Application to International Trade
+
+### Comparative Advantage vs Absolute Advantage
+
+- Absolute advantage
+    - An individual has an absolute advantage if they can produce a good or service more e"ciently than others
+    - Absolute advantage has nothing to do with gains from trade
+- Comparative advantage
+    - An individual has an absolute advantage if they can produce a particular good or service with opportunity cost of producing the good is lower for that country than for the other.
+    - Gains from trade are based on comparative advantage
+- Example from Microeconomics 
+    - Consider the two centers from the 2024 Denver Nuggets: Nikola Jokic and DeAndre Jordan.
+    - Assume that Nikola Jokic is better than DeAndre Jordan at all facets of basketball. In other words, \textbf{Jokic has an absolute advantage}.
+    - However, unlike Jokic, Jordan specializes in rebounding. So, it does not cost Jordan as much if he just rebounds the entire game (his opportunity cost for is lower). So, even if Jokic might be a better rebounder, \textbf{Jordan has an comparative advantage in rebounding}.
+
+### Calcuating Comparative Advantage
+
+
 ---
 ## Measuring a Nation's Income
 ---
