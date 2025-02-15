@@ -194,11 +194,11 @@ $$   \text{Inflation Rate}=100 * \frac{   \text{GDP Deflator at year X}- \text{G
 ## Measuring Prices & Cost of Living
 
 ### Basket of Goods
-The goverment wants to see how expensive things are getting in the economy every year. To do so in a standardized way, the BLS identifies a "basket of goods" a typical consumer buys and compares the total cost of this basket over time. (See [here](https://www.bls.gov/cpi/questions-and-answers.htm) for the things that are included in this basket)
+The goverment wants to see how expensive things are getting in the economy every year. To do so in a standardized way, the BLS identifies a ``basket of goods" a typical consumer buys and compares the total cost of this basket over time. (See [here](https://www.bls.gov/cpi/questions-and-answers.htm) for the things that are included in this basket)
 
 
 ### CPI and Inflation Rate
-Once we find the total cost a basket for different years, we can see how expensive things are getting using the Consumer Price Index (CPI) and Inflation rate. There are other measures but these are the most popular. 
+Once we find the total cost of a basket for different years, we can see how expensive things are getting using the Consumer Price Index (CPI) and Inflation rate. There are other measures but these are the most popular. 
 
 The formula for CPI is 
 $$CPI = \frac{\text{Basket Cost in Current Year}}{\text{Basket Cost in Base Year}}$$
@@ -210,9 +210,9 @@ $$   \text{Inflation Rate}=100 * \frac{   \text{CPI in year X}- \text{CPI in yea
 See Chapter ... question ... for practice
 
 ### CPI vs GDP Deflator
-In short, CPI measures how expensive things are getting for the $consumer$ and the $GDP$ $Deflator$ more expensive things are getting for the $producers$.
+In short, CPI measures how expensive things are getting for the $consumer$ and the GDP Deflator measures how expensive things are getting for the $producers$.
 
-Note that things that affect both the consumers and the producers are incldued in both measures. For example, rise in the price of textbook affects both consumers (consumer now buy less) and produces (sellers produce more due to rise in profit margins). So, it is included in both measures.
+- Note that things that affect both the consumers and the producers are incldued in both measures. For example, rise in the price of textbook affects both consumers (consumer now buy less) and produces (sellers produce more due to rise in profit margins). So, it is included in both measures.
 
 ### Comparing Prices from different times
 
@@ -225,7 +225,7 @@ $$   \text{Amount in year $X$ dollars}= \text{Amount in year $Y$ dollars} * \fra
 
 ### Interest Rate
 
-Interest rates are important because it determines the growth in value of your deposit. However, the actual interst rate on your saving might not be the stated nominal interest rate. This is because while nominal interest rate (for example, the rate given by your bank) might increase the value of your savings, the inflation rate will decrease this value through decrease in purchasing power. So, the find the rate the you actually face on your deposit use the following adjustment. 
+Interest rates are important because it determines the growth in value of your deposit. However, the actual interst rate on your saving might not be the stated nominal interest rate. This is because while nominal interest rate (for example, the rate given by your bank) might increase the value of your savings, the inflation rate will decrease this value through decrease in purchasing power. So, to find the rate the you actually face on your deposit use the following adjustment. 
 The real interest rate is given by 
 $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rate}$$
 
