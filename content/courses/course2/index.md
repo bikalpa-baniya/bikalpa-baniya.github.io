@@ -155,10 +155,9 @@ See Chapter 3 Question 3
 $$\text{Total Surplus }=\text{ Consumer Surplus }+\text{ Producer Surplus }$$
 
 To calcuate the numeric value for the surplus use the area of the triangle formula 
-
 $\frac{1}{2} * \text{Base} * \text{Height}$
 
-### Surplus and Gains from Trade 
+### Surplus and Gains from Trade when World Price $P_W$ is different than Domestic Price $P_D$
 
 <p align="center">
   <img src="Ch9_Domestic_World_Price.png" alt="Ch9_Domestic_World_Price" width="800">
@@ -183,9 +182,12 @@ Things to note
 <p align="center">
   <img src="Ch9_Traiff.png" alt="Ch9_Traiff" width="800">
 </p>
-
 Things to note
-- 
+- Tarrif causes the World Price $P_W$ to increase
+- If the country was importing 
+    - The new import is going to be reduced 
+    - The consumer surplus is going to decrease but the producer surplus will increase 
+    - There is Deadweight loss (DWL) from the traiffs
 
 
 
