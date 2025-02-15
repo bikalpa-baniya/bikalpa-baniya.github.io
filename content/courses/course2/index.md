@@ -145,12 +145,23 @@ See Chapter 3 Question 3
 
 ### Consumer and Producer Surplus 
 
+<p align="center">
+  <img src="Ch9_CS_PS.png" alt="Ch9_CS_PS" width="400">
+</p>
+
 
 ### Surplus and Gains from Trade 
 
+<p align="center">
+  <img src="Ch9_Domestic_World_Price.png" alt="Ch9_Domestic_World_Price" width="400">
+</p>
 
 
 ### Tariffs
+
+<p align="center">
+  <img src="Ch9_Traiff.png" alt="Ch9_Traiff" width="400">
+</p>
 
 
 
@@ -235,7 +246,7 @@ In short, CPI measures how expensive things are getting for the $consumer$ and t
 
 ### Comparing Prices from different times
 
-Comparing nominal dollar amounts across different times is not a fair comparasion because the value of these amounts differs. For example, the value of $100k$ wage in 2025 is not the same as the value of a $100k$ wage in 1980. To make a fair comparasion we need to convert prior year amounts to base year. 
+Comparing nominal dollar amounts across different times is not a fair comparasion because the value of these amounts differs. For example, the value of $100K$ wage in 2025 is not the same as the value of a $100K$ wage in 1980. To make a fair comparasion we need to convert prior year amounts to base year. 
 
 Let $X$ be the base year and $Y$ be the prior year. The conversion formula is 
 
