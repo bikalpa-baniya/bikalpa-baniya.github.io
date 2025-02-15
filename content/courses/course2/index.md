@@ -159,6 +159,17 @@ To calcuate the numeric value for the surplus use the area of the triangle formu
   <img src="Ch9_Domestic_World_Price.png" alt="Ch9_Domestic_World_Price" width="600">
 </p>
 
+<div align="center">
+
+|                        | $P_D < P_W$ | $P_D > P_W$ |
+|:----------------------:|:----------:|:----------:|
+| **direction of trade** |  exports   |  imports   |
+| **consumer surplus**   |   falls    |   rises    |
+| **producer surplus**   |   rises    |   falls    |
+| **total surplus**      |   rises    |   rises    |
+
+</div>
+
 
 ### Tariffs
 
