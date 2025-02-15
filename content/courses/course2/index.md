@@ -194,9 +194,8 @@ Notes about the components
 - $Ex$ increases GDP while $Im$ decreases GDP 
 
 ### Real vs Nominal GDP 
-
-
-
+Nomial GDP is the total value of goods and service $not corrected$ for inflation while Real GDP is the value of goods and service $corrected$ for inflation.
+- For base year Nomial GDP $=$ Real GDP
 
 ### GDP deflator and Inflation Rate
 
@@ -206,6 +205,8 @@ $$ \text{GDP Deflator}=100 * \frac{\text{Nominal GDP}}{\text{Real GDP}} $$
 
 The inflation rate between year $X$ and year $Y$ (where $X>Y$) is given by 
 $$   \text{Inflation Rate}=100 * \frac{   \text{GDP Deflator at year X}- \text{GDP Deflator at year Y}  }{ \text{GDP Deflator at year Y} }  $$
+
+Important: Please see the examples in the lecture slides to practice using these concepts. 
 
 ---
 ## Measuring Prices & Cost of Living
