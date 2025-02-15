@@ -149,7 +149,7 @@ See Chapter 3 Question 3
 ### Consumer and Producer Surplus 
 
 <p align="center">
-  <img src="Ch9_CS_PS.png" alt="Ch9_CS_PS" width="700">
+  <img src="Ch9_CS_PS.png" alt="Ch9_CS_PS" width="800">
 </p>
 
 $$\text{Total Surplus }=\text{ Consumer Surplus }+\text{ Producer Surplus }$$
@@ -159,7 +159,7 @@ To calcuate the numeric value for the surplus use the area of the triangle formu
 ### Surplus and Gains from Trade 
 
 <p align="center">
-  <img src="Ch9_Domestic_World_Price.png" alt="Ch9_Domestic_World_Price" width="700">
+  <img src="Ch9_Domestic_World_Price.png" alt="Ch9_Domestic_World_Price" width="800">
 </p>
 
 <div align="center">
@@ -174,14 +174,16 @@ Important things to note
 | **Total Surplus**      |   Rises    |   Rises    |
 
 </div>
- 
+
 
 
 ### Tariffs
 
 <p align="center">
-  <img src="Ch9_Traiff.png" alt="Ch9_Traiff" width="700">
+  <img src="Ch9_Traiff.png" alt="Ch9_Traiff" width="800">
 </p>
+
+
 
 
 
