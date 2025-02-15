@@ -93,11 +93,14 @@ So, moving from C to B requies giving up 10 mil barrels of oil.
 
 Conside two countries that produce either Iphones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people available to work respectively. 
 
+<div align="center">
 
 |           | Video Games      | iPhones  |
 |-----------|-----------   |-----------   |
 | USA       | 12           | 24           |
 | China     | 8            | 32           |
+
+</div>
 
 
 #### Question: Which country has the comparative advantage in producing video games?
@@ -161,7 +164,7 @@ To calcuate the numeric value for the surplus use the area of the triangle formu
 
 <div align="center">
 
-|                        | $P_D < P_W$ | $P_D > P_W$ |
+|                        | **$P_D < P_W$** | **$P_D > P_W$** |
 |:----------------------:|:----------:|:----------:|
 | **Direction of Trade** |  Exports   |  Imports   |
 | **Consumer Surplus**   |   Falls    |   Rises    |
