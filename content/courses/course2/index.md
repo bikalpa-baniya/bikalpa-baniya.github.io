@@ -174,7 +174,7 @@ GDP excludes
 - Value of goods produced in other year
 - Goods that produced in another country but not imported
 
-In short, GDP includes value the goverment can $accurately$ measure $within$ the $entire$ country in a $given time$.
+In short, GDP includes value the goverment can $accurately$ measure $within$ the $entire$ country in a $given$ $time$.
 
 ### 
 The formula of GPD is 
