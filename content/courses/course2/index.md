@@ -194,8 +194,12 @@ $$   \text{Inflation Rate}=100 * \frac{   \text{GDP Deflator at year X}- \text{G
 ## Measuring Prices & Cost of Living
 
 ### Basket of Goods
+The goverment wants to see how expensive things are getting in the economy every year. To do so in a standardized way, the BLS identifies a "basket of goods" a typical consumer buys and compares the total cost of this basket over time. (See [here](https://www.bls.gov/cpi/questions-and-answers.htm) for the things that are included in this basket)
+
 
 ### CPI and Inflation Rate
+Once we find the total cost a basket for different years, we can see how expensive things are getting using the Consumer Price Index (CPI) and Inflation rate. There are other measures but these are the most popular. 
+
 The formula for CPI is 
 $$CPI = \frac{\text{Basket Cost in Current Year}}{\text{Basket Cost in Base Year}}$$
 
@@ -203,12 +207,15 @@ $$CPI = \frac{\text{Basket Cost in Current Year}}{\text{Basket Cost in Base Year
 The inflation rate between year $X$ and year $Y$ (where $X>Y$) is given by 
 $$   \text{Inflation Rate}=100 * \frac{   \text{CPI in year X}- \text{CPI in year Y}  }{ \text{CPI in year Y} }  $$
 
+See Chapter ... question ... for practice
 
 ### CPI vs GDP Deflator
+In short, CPI measures how expensive things are getting for the $consumer$ and the $GDP$ $Deflator$ more expensive things are getting for the $producers$.
+ 
 
 ### Comparing Prices from different times
 
-Comparing nominal dollar amounts across different times is not a fair comparasion because the value of these amounts differs. For example, the value of $100k wage in 2025 is not the same as the value of a $100k wage in 1980. To make a fair comparasion we need to convert prior year amounts to base year. 
+Comparing nominal dollar amounts across different times is not a fair comparasion because the value of these amounts differs. For example, the value of $100k$ wage in 2025 is not the same as the value of a $100k$ wage in 1980. To make a fair comparasion we need to convert prior year amounts to base year. 
 
 Let $X$ be the base year and $Y$ be the prior year. The conversion formula is 
 
@@ -217,7 +224,7 @@ $$   \text{Amount in year $X$ dollars}= \text{Amount in year $Y$ dollars} * \fra
 
 ### Interest Rate
 
-Interest rates are important because it determines the growth in value of your deposit. However, the actual interst rate on your saving might not be the stated nominal interest rate. This is because while nominal interest rate (for example, the rate given by your bank) might increase the value of your savings, the inflation rate will decrease this value. So, the find the rate the you actually face use the following adjustment. 
+Interest rates are important because it determines the growth in value of your deposit. However, the actual interst rate on your saving might not be the stated nominal interest rate. This is because while nominal interest rate (for example, the rate given by your bank) might increase the value of your savings, the inflation rate will decrease this value through decrease in purchasing power. So, the find the rate the you actually face on your deposit use the following adjustment. 
 The real interest rate is given by 
 $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rate}$$
 
