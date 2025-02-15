@@ -164,7 +164,7 @@ $\frac{1}{2} * \text{Base} * \text{Height}$
   <img src="Ch9_Domestic_World_Price.png" alt="Ch9_Domestic_World_Price" width="800">
 </p>
 
-Important things to note
+Things to note
 <div align="center">
 
 |                        | **$P_W > P_D$** | **$P_W < P_D$** |
@@ -184,7 +184,8 @@ Important things to note
   <img src="Ch9_Traiff.png" alt="Ch9_Traiff" width="800">
 </p>
 
-
+Things to note
+- 
 
 
 
