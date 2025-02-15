@@ -63,7 +63,7 @@ $$ \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand car
 
 So, moving from C to B requies giving up 10 mil barrels of oil. 
 
-Additional notes: 
+### Additional notes: 
 - Economic growth results in the PPF shifting outwards
 - Shape of PPF
     - If the PPF is a straight line the opporunity cost is constant
@@ -158,9 +158,23 @@ Note: If you are trying to find which country has the comparative advantage in p
 
 ### Gross Domestic Product (GDP)
 
-GDP includes 
+GDP is the total value of all goods and services produced within a country. It is used to capture the overall health of the economy. 
+
+It includes the following
+- Goods and services produced legally in the country 
+- Final good 
+    - For example, a car the is sold to a consumer not intermediate goods such car engines or other body parts
+- Year $X$ GDP only includes value procuded in year $X$ and not the value produced in year prior, regardless of when the good was consumed. 
+- Tangible goods (like food, mountain bikes, beer) and intangible service (dry cleaning, concerts, haircuts)
 
 GDP excludes
+- Goods and services produced illegally or at home in the country
+- Intermediate goods 
+    - These are not incldued to avoid double counting. For example if you inlude both the final car and the car engines, you end up counting this value twice
+- Value of goods produced in other year
+- Goods that produced in another country but not imported
+
+In short, GDP includes value the goverment can accurately measure within the entire country in a given time. 
 
 ### 
 The formula of GPD is 
