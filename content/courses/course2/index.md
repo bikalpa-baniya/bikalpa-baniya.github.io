@@ -23,8 +23,7 @@ disableAnchoredHeadings: false
 ---
 ## Thinking Like an Economist
 - Economics is about trade-offs
-- Opportunity Cost
-  - Definition: It is defined as the value of the next best alternative. It is the value you forgo when you make a choice.
+- Opportunity Cost: It is defined as the value of the next best alternative. It is the value you forgo when you make a choice.
   
 ### Production Possibility Forntier (PPF)
 
@@ -36,7 +35,7 @@ disableAnchoredHeadings: false
 
 - Production efficiency means that there is no way to produce more of one good without producing less of other goods
 - A: Amount of oil produced if the country only produces oil
-- B: Amount of cards produced if the country only produces cars
+- B: Amount of cars produced if the country only produces cars
 
 ### Oppoutunity cost and PPF
 
@@ -46,14 +45,14 @@ disableAnchoredHeadings: false
   <img src="Ch2_PPF_OC.png" alt="Ch2_PPF" width="400">
 </p>
 
-Step 1: Equate production if the country only produced either of the good (i.e. $A=B$)
+STEP 1: Equate production if the country only produced either of the good (i.e. $A=B$)
 
 $$ 50 \text{ mil barrels of oil} = 30 \text{ hundred thousand cars}$$
 
-Step 2: Since we are increasing the production of cars make the right hand side 1
+STEP 2: Since we are increasing the production of cars make the right hand side 1
 $$ \frac{50}{30} \text{ mil barrels of oil} = 1 \text{ hundred thousand cars}$$
 
-Step 3: Car production increases by $15-9=6$ so make the right hand side 6 by multiplying both sides by 6
+STEP 3: Car production increases by $15-9=6$ so make the right hand side 6 by multiplying both sides by 6
 
 $$ \frac{50}{30}*6 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
 $$ \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand cars} $$
@@ -61,14 +60,14 @@ $$ \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand car
 
 
 
-So, moving from C to B requies giving up 10 mil barrels of oil. 
+So, moving from C to D requies giving up 10 mil barrels of oil. 
 
 ### Additional notes: 
 - Economic growth results in the PPF shifting outwards
 - Shape of PPF
-    - If the PPF is a straight line the opporunity cost is constant
-    - If the PPF is bowing outwards the opporunity cost in increasing
-    - If the PPF is bowing inwards the opporunity cost in decreasing
+    - If the PPF is a straight line the opportunity cost is constant
+    - If the PPF is bowing outwards the opportunity cost in increasing
+    - If the PPF is bowing inwards the opportunity cost in decreasing
 ### Positive statement vs Normative statement
 
 - Positive statement - Statement that are testable
@@ -86,12 +85,12 @@ So, moving from C to B requies giving up 10 mil barrels of oil.
     - Absolute advantage has nothing to do with gains from trade 
 - Comparative advantage
     - A country (individual) has an comparative advantage if it can produce a particular good or service with lower opportunity cost
-    - In other words, they have to give up less
+    - In other words, they have to give up less to produce this good
     - Gains from trade are based on comparative advantage
 
 ### Calcuating Comparative Advantage
 
-Conside two countries that produce either Iphones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people available to work respectively. 
+Conside two countries that produce either iPhones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people available to work respectively. 
 
 <div align="center">
 
@@ -116,7 +115,7 @@ $$ 12 * 100 \text{ Video Games} = 24 * 100\text{ iPhones}$$
 $$ 8 * 200 \text{ Video Game} = 32 * 200\text{ iPhones}$$
 
 
-STEP 2: Since we are interested in the opprtunity cost of video Games, make the left hand side 1. 
+STEP 2: Since we are interested in the opprtunity cost of video games, make the left hand side 1. 
 
 - USA
 $$ 1 \text{ Video Game} = \frac{24 * 100}{12*100}\text{ iPhones}$$
@@ -126,7 +125,7 @@ $$ \Leftrightarrow 1 \text{ Video Game} = 2 \text{ iPhones}$$
 $$ 1 \text{ Video Game} = \frac{32 * 200}{8*200}\text{ iPhones}$$
 $$ \Leftrightarrow 1 \text{ Video Game} = 4 \text{ iPhones}$$
 
-STEP 3: Find which country has the smaller opportunity cost (or who has to give up less). In this case it is the USA. So, USA has the comparative advantage in producing video games. 
+STEP 3: Find out which country has the smaller opportunity cost (or who has to give up less). In this case it is the USA. So, USA has the comparative advantage in producing video games. 
 
 Note: If you are trying to find which country has the comparative advantage in producing iPhones, step 1 and 3 are identical and you just have to make the right hand side 1 in step 2. 
 
