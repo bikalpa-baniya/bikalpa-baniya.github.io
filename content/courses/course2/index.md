@@ -40,7 +40,7 @@ disableAnchoredHeadings: false
 
 ### Oppoutunity cost and PPF
 
-#### What is the opporunity cost of going from point C to D? 
+#### Question:  What is the opporunity cost of going from point C to D? 
 
 <p align="center">
   <img src="Ch2_PPF_OC.png" alt="Ch2_PPF" width="400">
@@ -164,9 +164,8 @@ $\frac{1}{2} * \text{Base} * \text{Height}$
   <img src="Ch9_Domestic_World_Price.png" alt="Ch9_Domestic_World_Price" width="800">
 </p>
 
-<div align="center">
-
 Important things to note
+<div align="center">
 
 |                        | **$P_W > P_D$** | **$P_W < P_D$** |
 |:----------------------:|:----------:|:----------:|
