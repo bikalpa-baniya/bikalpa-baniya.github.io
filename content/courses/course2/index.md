@@ -163,10 +163,10 @@ To calcuate the numeric value for the surplus use the area of the triangle formu
 
 |                        | $P_D < P_W$ | $P_D > P_W$ |
 |:----------------------:|:----------:|:----------:|
-| **direction of trade** |  exports   |  imports   |
-| **consumer surplus**   |   falls    |   rises    |
-| **producer surplus**   |   rises    |   falls    |
-| **total surplus**      |   rises    |   rises    |
+| **Direction of Trade** |  Exports   |  Imports   |
+| **Consumer Surplus**   |   Falls    |   Rises    |
+| **Producer Surplus**   |   Rises    |   Falls    |
+| **Total Surplus**      |   Rises    |   Rises    |
 
 </div>
 
