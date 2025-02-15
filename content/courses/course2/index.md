@@ -91,7 +91,7 @@ So, moving from C to B requies giving up 10 mil barrels of oil.
 
 ### Calcuating Comparative Advantage
 
-Conside two countries that produce either Iphones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people avaiable to work respectively. 
+Conside two countries that produce either Iphones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people available to work respectively. 
 
 
 |           | Video Games      | iPhones  |
@@ -135,8 +135,9 @@ Note: If you are trying to find which country has the comparative advantage in p
 
 
 ### Gains from Trade 
-- Main idea: Trade allows countries to consume at a level in the PPF that is otherwise infeasible. This requires that each country only produce the good in which they have comparative advantage. 
-- See Chapter 3 Question 3 
+
+Main idea: Trade allows countries to consume at a level in the PPF that is otherwise infeasible. This requires that each country only produce the good in which they have comparative advantage. 
+See Chapter 3 Question 3 
 
 
 ---
@@ -188,7 +189,7 @@ where
 - $Im$ is the nation's import 
 
 Notes about the components
-- $C$ includes spending by households on good and service but excludes the purchase of the house iteself because it might be ``produced" in a different year 
+- $C$ includes spending by households on good and service but excludes the purchase of the house iteself because it might be "produced" in a different year 
 - $I$ includes spending on goods that will be used to produce future goods (like inventory) but excluded spending on financial assets
 - $G$ includes spending on the goods and services purchased by the government but excludes tranfer of payments like unemployment insurance benefits
 - $Ex$ increases GDP while $Im$ decreases GDP 
@@ -212,7 +213,7 @@ Important: Please see the examples in the lecture slides to practice using these
 ## Measuring Prices & Cost of Living
 
 ### Basket of Goods
-The goverment wants to see how expensive things are getting in the economy every year. To do so in a standardized way, the BLS identifies a ``basket of goods" a typical consumer buys and compares the total cost of this basket over time. (See [here](https://www.bls.gov/cpi/questions-and-answers.htm) for the things that are included in this basket)
+The goverment wants to see how expensive things are getting in the economy every year. To do so in a standardized way, the BLS identifies a "basket of goods" a typical consumer buys and compares the total cost of this basket over time. (See [here](https://www.bls.gov/cpi/questions-and-answers.htm) for the things that are included in this basket)
 
 
 ### CPI and Inflation Rate
