@@ -211,7 +211,8 @@ See Chapter ... question ... for practice
 
 ### CPI vs GDP Deflator
 In short, CPI measures how expensive things are getting for the $consumer$ and the $GDP$ $Deflator$ more expensive things are getting for the $producers$.
- 
+
+Note that things that affect both the consumers and the producers are incldued in both measures. For example, rise in the price of textbook affects both consumers (consumer now buy less) and produces (sellers produce more due to rise in profit margins). So, it is included in both measures.
 
 ### Comparing Prices from different times
 
