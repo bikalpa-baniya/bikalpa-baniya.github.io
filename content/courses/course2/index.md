@@ -25,8 +25,7 @@ disableAnchoredHeadings: false
 - Economics is about trade-offs
 - Opportunity Cost
   - Definition: It is defined as the value of the next best alternative. It is the value you forgo when you make a choice.
----
-## Interdependence & Gains from Trade
+  
 ### Production Possibility Forntier (PPF)
 
 - The following is the PPF for a country that only produces oil and cars. 
@@ -41,7 +40,7 @@ disableAnchoredHeadings: false
 
 ### Oppoutunity cost and PPF
 
-- What is the opporunity cost of going from point C to D? 
+#### What is the opporunity cost of going from point C to D? 
 
 <p align="center">
   <img src="Ch2_PPF_OC.png" alt="Ch2_PPF" width="400">
@@ -77,9 +76,8 @@ Additional notes:
 - Normative statement - Statement that are based on opinions
     - Example: The unemployment rate should be 0%
 
-
 ---
-## Application to International Trade
+## Interdependence & Gains from Trade
 
 ### Comparative Advantage vs Absolute Advantage
 
@@ -140,11 +138,31 @@ Note: If you are trying to find which country has the comparative advantage in p
 - Main idea: Trade allows countries to consume at a level in the PPF that is otherwise infeasible. This requires that each country only produce the good in which they have comparative advantage. 
 - See Chapter 3 Question 3 
 
+
+---
+## Application to International Trade
+
+### Consumer and Producer Surplus 
+
+
+### Surplus and Gains from Trade 
+
+
+
+### Tariffs
+
+
+
 ---
 ## Measuring a Nation's Income
 
+### Gross Domestic Product (GDP)
 
+GDP includes 
 
+GDP excludes
+
+### 
 The formula of GPD is 
 $$ GDP = C + I + G + Ex - Im $$
 
@@ -154,6 +172,13 @@ $$ GDP = C + I + G + Ex - Im $$
 - $G$ is goverment expenditure 
 - $Ex$ is the nation's export 
 - $Im$ is the nation's import 
+
+Notes about the components
+....
+
+Real vs Nominal GDP 
+....
+
 
 
 ### GDP deflator and Inflation Rate
@@ -168,11 +193,27 @@ $$   \text{Inflation Rate}=100 * \frac{   \text{GDP Deflator at year X}- \text{G
 ---
 ## Measuring Prices & Cost of Living
 
-### CPI and Basket of Goods
+### Basket of Goods
+
+### CPI and Inflation Rate
 The formula for CPI is 
 $$CPI = \frac{\text{Basket Cost in Current Year}}{\text{Basket Cost in Base Year}}$$
 
+
+The inflation rate between year $X$ and year $Y$ (where $X>Y$) is given by 
+$$   \text{Inflation Rate}=100 * \frac{   \text{CPI in year X}- \text{CPI in year Y}  }{ \text{CPI in year Y} }  $$
+
+
 ### CPI vs GDP Deflator
+
+### Comparing Prices from different times
+
+Comparing nominal dollar amounts across different times is not a fair comparasion because the value of these amounts differs. For example, the value of $100k wage in 2025 is not the same as the value of a $100k wage in 1980. To make a fair comparasion we need to convert prior year amounts to base year. 
+
+Let $X$ be the base year and $Y$ be the prior year. The conversion formula is 
+
+$$   \text{Amount in year $X$ dollars}= \text{Amount in year $Y$ dollars} * \frac{   \text{Price Index in $X$}  }{ Price Index in $Y$ }  $$
+
 
 ### Interest Rate
 
