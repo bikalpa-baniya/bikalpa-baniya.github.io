@@ -154,7 +154,7 @@ See Chapter 3 Question 3
 
 $$\text{Total Surplus }=\text{ Consumer Surplus }+\text{ Producer Surplus }$$
 
-To calcuate the numeric value for the surplus use the area of the triangle formula $\frac{1}{2}*\text{Base}*\text{Height}$
+To calcuate the numeric value for the surplus use the area of the triangle formula $\frac{1}{2} * \text{Base} * \text{Height}$
 
 ### Surplus and Gains from Trade 
 
@@ -164,14 +164,17 @@ To calcuate the numeric value for the surplus use the area of the triangle formu
 
 <div align="center">
 
-|                        | **$P_D < P_W$** | **$P_D > P_W$** |
+Important things to note
+
+|                        | **$P_W > P_D$** | **$P_W < P_D$** |
 |:----------------------:|:----------:|:----------:|
-| **Direction of Trade** |  Exports   |  Imports   |
+| **Direction of Trade** |  Export   |  Imports   |
 | **Consumer Surplus**   |   Falls    |   Rises    |
 | **Producer Surplus**   |   Rises    |   Falls    |
 | **Total Surplus**      |   Rises    |   Rises    |
 
 </div>
+ 
 
 
 ### Tariffs
