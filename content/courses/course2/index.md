@@ -183,6 +183,7 @@ Things to note
   <img src="Ch9_Traiff.png" alt="Ch9_Traiff" width="800">
 </p>
 Things to note
+
 - Tarrif causes the World Price $P_W$ to increase
 - If the country was importing 
     - The new import is going to be reduced 
