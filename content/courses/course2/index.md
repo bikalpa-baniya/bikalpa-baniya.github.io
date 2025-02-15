@@ -174,13 +174,13 @@ GDP excludes
 - Value of goods produced in other year
 - Goods that produced in another country but not imported
 
-In short, GDP includes value the goverment can accurately measure within the entire country in a given time. 
+In short, GDP includes value the goverment can $accurately$ measure $within$ the $entire$ country in a $given time$.
 
 ### 
 The formula of GPD is 
 $$ GDP = C + I + G + Ex - Im $$
 
-,where
+where
 - $C$ is consumption 
 - $I$ is invesetment 
 - $G$ is goverment expenditure 
@@ -188,10 +188,13 @@ $$ GDP = C + I + G + Ex - Im $$
 - $Im$ is the nation's import 
 
 Notes about the components
-....
+- $C$ includes spending by households on good and service but excludes the purchase of the house iteself because it might be ``produced" in a different year 
+- $I$ includes spending on goods that will be used to produce future goods (like inventory) but excluded spending on financial assets
+- $G$ includes spending on the goods and services purchased by the government but excludes tranfer of payments like unemployment insurance benefits
+- $Ex$ increases GDP while $Im$ decreases GDP 
 
 ### Real vs Nominal GDP 
-....
+
 
 
 
