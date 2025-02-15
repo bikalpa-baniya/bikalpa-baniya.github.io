@@ -186,9 +186,9 @@ Things to note
 
 - Tarrif causes the World Price $P_W$ to increase
 - If the country was importing 
-    - The new import is going to be reduced 
+    - The new import is going to be smaller
     - The consumer surplus is going to decrease but the producer surplus will increase 
-    - There is Deadweight loss (DWL) from the traiffs
+    - There is Deadweight Loss (DWL) from the traiffs
 
 
 
@@ -202,18 +202,18 @@ GDP is the total value of all goods and services produced within a country. It i
 It includes the following
 - Goods and services produced legally in the country 
 - Final good 
-    - For example, a car the is sold to a consumer not intermediate goods such car engines or other body parts
-- Year $X$ GDP only includes value procuded in year $X$ and not the value produced in year prior, regardless of when the good was consumed. 
+    - For example, a car that is sold to a consumer not the intermediate goods such car engines or other body parts
+- Year $X$ GDP only includes value procuded in year $X$ and not the value produced in the prior years, regardless of when the good was consumed. 
 - Tangible goods (like food, mountain bikes, beer) and intangible service (dry cleaning, concerts, haircuts)
 
 GDP excludes
-- Goods and services produced illegally or at home in the country
+- Goods and services produced at home or illegally 
 - Intermediate goods 
-    - These are not incldued to avoid double counting. For example if you inlude both the final car and the car engines, you end up counting this value twice
+    - These are not incldued to avoid double counting. For example if you include both the final car and the car engines, you end up counting this value twice
 - Value of goods produced in other year
 - Goods that produced in another country but not imported
 
-In short, GDP includes value the goverment can $accurately$ measure $within$ the $entire$ country in a $given$ $time$.
+** In short, GDP includes value the goverment can $accurately$ measure $within$ the $entire$ country in a $given$ $time$. **
 
 ### 
 The formula of GPD is 
@@ -233,7 +233,7 @@ Notes about the components
 - $Ex$ increases GDP while $Im$ decreases GDP 
 
 ### Real vs Nominal GDP 
-Nomial GDP is the total value of goods and service $not corrected$ for inflation while Real GDP is the value of goods and service $corrected$ for inflation.
+Nomial GDP is the total value of goods and service **not corrected** for inflation while Real GDP is the value of goods and service **corrected** for inflation.
 - For base year Nomial GDP $=$ Real GDP
 
 ### GDP deflator and Inflation Rate
@@ -251,11 +251,11 @@ $$   \text{Inflation Rate}=100 * \frac{   \text{GDP Deflator at year X}- \text{G
 ## Measuring Prices & Cost of Living
 
 ### Basket of Goods
-The goverment wants to see how expensive things are getting in the economy every year. To do so in a standardized way, the BLS identifies a "basket of goods" a typical consumer buys and compares the total cost of this basket over time. (See [here](https://www.bls.gov/cpi/questions-and-answers.htm) for the things that are included in this basket)
+The government wants to see how expensive things are getting in the economy every year. To do so in a standardized way, the BLS identifies a "basket of goods" a typical consumer buys and compares the total cost of this basket over time. (See [here](https://www.bls.gov/cpi/questions-and-answers.htm) for the things that are included in this basket)
 
 
 ### CPI and Inflation Rate
-Once we find the total cost of a basket for different years, we can see how expensive things are getting using the Consumer Price Index (CPI) and Inflation rate. There are other measures but these are the most popular. 
+Once we find the total cost of a basket for different years, we can see how expensive things are getting using the Consumer Price Index (CPI) and Inflation rate. There are other measures but these two are the most popular. 
 
 The formula for CPI is 
 $$CPI = \frac{\text{Basket Cost in Current Year}}{\text{Basket Cost in Base Year}}$$
@@ -264,16 +264,16 @@ $$CPI = \frac{\text{Basket Cost in Current Year}}{\text{Basket Cost in Base Year
 The inflation rate between year $X$ and year $Y$ (where $X>Y$) is given by 
 $$   \text{Inflation Rate}=100 * \frac{   \text{CPI in year X}- \text{CPI in year Y}  }{ \text{CPI in year Y} }  $$
 
-See Chapter ... question ... for practice
+
 
 ### CPI vs GDP Deflator
-In short, CPI measures how expensive things are getting for the $consumer$ and the GDP Deflator measures how expensive things are getting for the $producers$.
+In short, CPI measures how expensive things are getting for the **consumer** and the GDP Deflator measures how expensive things are getting for the **producers**.
 
-- Note that things that affect both the consumers and the producers are incldued in both measures. For example, rise in the price of textbook affects both consumers (consumer now buy less) and produces (sellers produce more due to rise in profit margins). So, it is included in both measures.
+- Note that things that affect both the consumers and the producers are incldued in both measures. For example, rise in the price of textbook affects both consumers (consumer now buy less) and produces (sellers now produce more due to rise in profit margins). So, it is included in both measures.
 
 ### Comparing Prices from different times
 
-Comparing nominal dollar amounts across different times is not a fair comparasion because the value of these amounts differs. For example, the value of $100K wage in 2025 is not the same as the value of a $100K wage in 1980. To make a fair comparasion we need to convert prior year amounts to base year. 
+Comparing nominal dollar amounts across different times is not a fair comparison because the value of these amounts differs. For example, the value of $100K wage in 2025 is not the same as the value of a $100K wage in 1980. To make a fair comparison we need to convert prior year amounts to base year.
 
 Let $X$ be the base year and $Y$ be the prior year. The conversion formula is 
 
@@ -282,7 +282,8 @@ $$   \text{Amount in year $X$ dollars}= \text{Amount in year $Y$ dollars} * \fra
 
 ### Interest Rate
 
-Interest rates are important because it determines the growth in value of your deposit. However, the actual interst rate on your saving might not be the stated nominal interest rate. This is because while nominal interest rate (for example, the rate given by your bank) might increase the value of your savings, the inflation rate will decrease this value through decrease in purchasing power. So, to find the rate the you actually face on your deposit use the following adjustment. 
+Interest rates are important because it determines the growth in value of your deposit. However, the actual interest rate on your saving might not be the stated nominal interest rate. This is because while nominal interest rate (for example, the rate given by your bank) might increase the value of your savings, the inflation rate will decrease this value through decrease in purchasing power. So, to find the rate the you actually face on your deposit use the following adjustment. 
+
 The real interest rate is given by 
 $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rate}$$
 
