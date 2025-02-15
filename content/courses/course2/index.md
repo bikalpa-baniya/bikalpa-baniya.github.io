@@ -46,7 +46,7 @@ disableAnchoredHeadings: false
   <img src="Ch2_PPF_OC.png" alt="Ch2_PPF" width="400">
 </p>
 
-Step 1: Equate production if the country only produced either of the good
+Step 1: Equate production if the country only produced either of the good (i.e. $A=B$)
 
 $$ 50 \text{ mil barrels of oil} = 30 \text{ hundred thousand cars}$$
 
@@ -176,7 +176,7 @@ $$ GDP = C + I + G + Ex - Im $$
 Notes about the components
 ....
 
-Real vs Nominal GDP 
+### Real vs Nominal GDP 
 ....
 
 
@@ -212,11 +212,12 @@ Comparing nominal dollar amounts across different times is not a fair comparasio
 
 Let $X$ be the base year and $Y$ be the prior year. The conversion formula is 
 
-$$   \text{Amount in year $X$ dollars}= \text{Amount in year $Y$ dollars} * \frac{   \text{Price Index in $X$}  }{ Price Index in $Y$ }  $$
+$$   \text{Amount in year $X$ dollars}= \text{Amount in year $Y$ dollars} * \frac{   \text{Price Index in $X$}  }{ \text{Price Index in $Y$ }}  $$
 
 
 ### Interest Rate
 
+Interest rates are important because it determines the growth in value of your deposit. However, the actual interst rate on your saving might not be the stated nominal interest rate. This is because while nominal interest rate (for example, the rate given by your bank) might increase the value of your savings, the inflation rate will decrease this value. So, the find the rate the you actually face use the following adjustment. 
 The real interest rate is given by 
 $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rate}$$
 
