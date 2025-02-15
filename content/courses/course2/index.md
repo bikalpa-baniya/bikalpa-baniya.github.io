@@ -273,7 +273,7 @@ In short, CPI measures how expensive things are getting for the **consumer** and
 
 ### Comparing Prices from different times
 
-Comparing nominal dollar amounts across different times is not a fair comparison because the value of these amounts differs. For example, the value of $100K wage in 2025 is not the same as the value of a $100K wage in 1980. To make a fair comparison we need to convert prior year amounts to base year.
+Comparing nominal dollar amounts across different times is not a fair comparison because the value of these amounts differs. For example, the value of 100K wage in 2025 is not the same as the value of a 100K wage in 1980. To make a fair comparison we need to convert prior year amounts to base year.
 
 Let $X$ be the base year and $Y$ be the prior year. The conversion formula is 
 
