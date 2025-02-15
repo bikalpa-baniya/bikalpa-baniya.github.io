@@ -25,7 +25,7 @@ disableAnchoredHeadings: false
 - Economics is about trade-offs
 - Opportunity Cost: It is defined as the value of the next best alternative. It is the value you forgo when you make a choice.
   
-### Production Possibility Forntier (PPF)
+### Production Possibility Frontier (PPF)
 
 - The following is the PPF for a country that only produces oil and cars. 
 
@@ -37,7 +37,7 @@ disableAnchoredHeadings: false
 - A: Amount of oil produced if the country only produces oil
 - B: Amount of cars produced if the country only produces cars
 
-### Oppoutunity cost and PPF
+### Opportunity cost and PPF
 
 #### Question:  What is the opporunity cost of going from point C to D? 
 
@@ -60,7 +60,7 @@ $$ \Leftrightarrow 10 \text{ mil barrels of oil} = 6 \text{ hundred thousand car
 
 
 
-So, moving from C to D requies giving up 10 mil barrels of oil. 
+So, moving from C to D requires giving up 10 mil barrels of oil. 
 
 ### Additional notes: 
 - Economic growth results in the PPF shifting outwards
@@ -71,7 +71,7 @@ So, moving from C to D requies giving up 10 mil barrels of oil.
 ### Positive statement vs Normative statement
 
 - Positive statement - Statement that are testable
-    - Example: The unempolyent rate is 4%
+    - Example: The unemployment rate is 4%
 - Normative statement - Statement that are based on opinions
     - Example: The unemployment rate should be 0%
 
@@ -115,7 +115,7 @@ $$ 12 * 100 \text{ Video Games} = 24 * 100\text{ iPhones}$$
 $$ 8 * 200 \text{ Video Game} = 32 * 200\text{ iPhones}$$
 
 
-STEP 2: Since we are interested in the opprtunity cost of video games, make the left hand side 1. 
+STEP 2: Since we are interested in the opportunity cost of video games, make the left hand side 1. 
 
 - USA
 $$ 1 \text{ Video Game} = \frac{24 * 100}{12*100}\text{ iPhones}$$
@@ -154,7 +154,7 @@ See Chapter 3 Question 3
 
 $$\text{Total Surplus }=\text{ Consumer Surplus }+\text{ Producer Surplus }$$
 
-To calcuate the numeric value for the surplus use the area of the triangle formula 
+To calculate the numeric value for the surplus use the area of the triangle formula 
 $\frac{1}{2} * \text{Base} * \text{Height}$
 
 ### Surplus and Gains from Trade when World Price $P_W$ is different than Domestic Price $P_D$
@@ -184,7 +184,7 @@ Things to note
 </p>
 Things to note
 
-- Tarrif causes the World Price $P_W$ to increase
+- Tariff causes the World Price $P_W$ to increase
 - If the country was importing 
     - The new import is going to be smaller
     - The consumer surplus is going to decrease but the producer surplus will increase 
@@ -209,11 +209,11 @@ It includes the following
 GDP excludes
 - Goods and services produced at home or illegally 
 - Intermediate goods 
-    - These are not incldued to avoid double counting. For example if you include both the final car and the car engines, you end up counting this value twice
+    - These are not included to avoid double counting. For example if you include both the final car and the car engines, you end up counting this value twice
 - Value of goods produced in other year
 - Goods that produced in another country but not imported
 
-** In short, GDP includes value the goverment can $accurately$ measure $within$ the $entire$ country in a $given$ $time$. **
+** In short, GDP includes value the government can $accurately$ measure $within$ the $entire$ country in a $given$ $time$. **
 
 ### 
 The formula of GPD is 
@@ -221,13 +221,13 @@ $$ GDP = C + I + G + Ex - Im $$
 
 where
 - $C$ is consumption 
-- $I$ is invesetment 
-- $G$ is goverment expenditure 
+- $I$ is investment
+- $G$ is government expenditure 
 - $Ex$ is the nation's export 
 - $Im$ is the nation's import 
 
 Notes about the components
-- $C$ includes spending by households on good and service but excludes the purchase of the house iteself because it might be "produced" in a different year 
+- $C$ includes spending by households on good and service but excludes the purchase of the house itself because it might be "produced" in a different year 
 - $I$ includes spending on goods that will be used to produce future goods (like inventory) but excluded spending on financial assets
 - $G$ includes spending on the goods and services purchased by the government but excludes tranfer of payments like unemployment insurance benefits
 - $Ex$ increases GDP while $Im$ decreases GDP 
@@ -269,7 +269,7 @@ $$   \text{Inflation Rate}=100 * \frac{   \text{CPI in year X}- \text{CPI in yea
 ### CPI vs GDP Deflator
 In short, CPI measures how expensive things are getting for the **consumer** and the GDP Deflator measures how expensive things are getting for the **producers**.
 
-- Note that things that affect both the consumers and the producers are incldued in both measures. For example, rise in the price of textbook affects both consumers (consumer now buy less) and produces (sellers now produce more due to rise in profit margins). So, it is included in both measures.
+- Note that things that affect both the consumers and the producers are included in both measures. For example, rise in the price of textbook affects both consumers (consumer now buy less) and produces (sellers now produce more due to rise in profit margins). So, it is included in both measures.
 
 ### Comparing Prices from different times
 
