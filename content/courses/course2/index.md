@@ -90,7 +90,7 @@ So, moving from C to D requires giving up 10 mil barrels of oil.
 
 ### Calcuating Comparative Advantage
 
-Conside two countries that produce either iPhones or video games. The following table shows the number of people required to build one of either. Suppose that USA and China have 100 and 200 people available to work respectively. 
+Conside two countries that produce either iPhones or video games. The following table shows the number items one person can produce. Suppose that USA and China have 100 and 200 people available to work respectively. 
 
 <div align="center">
 
