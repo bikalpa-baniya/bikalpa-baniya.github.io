@@ -172,6 +172,7 @@ Things to note
 | **Consumer Surplus**   |   Falls    |   Rises    |
 | **Producer Surplus**   |   Rises    |   Falls    |
 | **Total Surplus**      |   Rises    |   Rises    |
+| **Who gets the Gains from Trade**      |   Producers   |   Consumers    |
 
 </div>
 
