@@ -381,7 +381,9 @@ $$ \text{Change in Demand Deposits }=\frac{\text{Initial Depost }}{\text{Require
 #### Interest Rate and Money Supply 
 
 How can the Fed influence money supply? 
+
 - The Fed can influence the money supply by adjusting the interest rate on loans it provides to banks and other financial institutions.
+
 Example 
 
 - If the Fed lowers the interest rate it charges banks for borrowing money, banks will be more likely to borrow funds. This increases the amount of money available for lending to businesses and consumers, thus expanding the money supply. 
