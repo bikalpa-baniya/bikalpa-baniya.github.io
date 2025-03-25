@@ -317,9 +317,7 @@ $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rat
 #### Money in the US Economy 
 
 There are two kinds of money in the US economy
-
 1. Currency: Paper bills 
-
 2. Demand Deposits: Balance in bank accounts 
 
 Money Stock: Total amount of money circulating in the economy
@@ -339,6 +337,16 @@ Common Mistake: M2 = M1 + less liquid asset. It is a common mistake to assume M2
     - Control Money Supply: Control interest rates and other monetary policy 
 
 #### Bank Reserve
+
+- Bank have to keep a fraction of their deposits that they cannot loan out 
+- Reserve Ratio
+    - Fraction of deposits that banks hold as reserve 
+    - Percent of total deposits that banks have to hold as reserve 
+- Useful formulas 
+
+$$ \text{Reserve}&=\text{Demand Deposits}-\text{Loans}\\\text{Required Reserve}&=\text{Demand Deposits}\times\text{Reserve Ratio} $$
+
+
 #### Changes in Money Supply 
 ### Balance Sheet
 #### Interest Rate and Money Supply 
