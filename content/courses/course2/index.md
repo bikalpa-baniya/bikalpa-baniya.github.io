@@ -338,9 +338,11 @@ Common Mistake: M2 = M1 + less liquid asset. It is a common mistake to assume M2
 
 Bank have to keep a fraction of their deposits that they cannot loan out 
     - Why? ...........
+    
 Reserve Ratio
     - Fraction of deposits that banks hold as reserve 
     - Percent of total deposits that banks have to hold as reserve 
+    
 Useful formulas 
 
 $$ \text{Reserve}=\text{Demand Deposits}-\text{Loans}$$
