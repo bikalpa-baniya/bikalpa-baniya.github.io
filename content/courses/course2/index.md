@@ -361,15 +361,17 @@ A bank's balance sheet is a financial statement that shows the bank's financial 
 - When you add to assets, you have to add it to liabilities too. You have to figure out where to add it.
 - Please review the lecture slides to see examples of balancing a budget
 
+<div align="center">
 
 |          Assets        | Liabilities |
 |:----------------------:|:----------:|
 | Reserves               |  Deposits  |  
 | Loans                  |   Debt     |  
 | Securities            |   Capital (Owners's equity)    |  
+
+</div>
+
   
-
-
 Leverage ratio measures the financial risk of a bank and shows how much the bank is relying on borrowed money (debt) versus its own capital (equity).
 $$ \text{Leverage Ratio}=\frac{\text{Assets}}{\text{Capital}}=\frac{\text{Reserves}+\text{Loans}+\text{Securities}}{\text{Capital}} $$
 
