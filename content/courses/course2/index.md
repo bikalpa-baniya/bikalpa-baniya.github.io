@@ -309,10 +309,8 @@ $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rat
  
 ### Types of Money 
 
-- Commodity Money: Has intrinsic value 
-    - Example, Gold coins
-- Fiat Money: No intrinsic value but government decrees a value 
-    - Example, US dollars
+- Commodity Money: Has intrinsic value, for example, Gold coins
+- Fiat Money: No intrinsic value but government decrees a value, for example, US dollars
 
 #### Money in the US Economy 
 
@@ -338,19 +336,55 @@ Common Mistake: M2 = M1 + less liquid asset. It is a common mistake to assume M2
 
 #### Bank Reserve
 
-- Bank have to keep a fraction of their deposits that they cannot loan out 
-- Reserve Ratio
+Bank have to keep a fraction of their deposits that they cannot loan out 
+    - Why? ...........
+Reserve Ratio
     - Fraction of deposits that banks hold as reserve 
     - Percent of total deposits that banks have to hold as reserve 
-- Useful formulas 
+Useful formulas 
 
 $$ \text{Reserve}=\text{Demand Deposits}-\text{Loans}$$
 $$ \text{Required Reserve}=\text{Demand Deposits}\times\text{Reserve Ratio} $$
 
 
 #### Changes in Money Supply 
+
+- Money vs Wealth: Bank make loans from their deposits to create money but it does not create wealth 
+- Money Multipliers
+$$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} $$
+
+Inutition: ..............
+
 ### Balance Sheet
+A bank's balance sheet is a financial statement that shows the bank's financial position. It helps assess the bank's financial health by providing a snapshot of its assets, liabilities and equity.
+- Assets are inflow of funds to the bank and liabilities are the out flow of funds out of the bank
+- When you add to assets, you have to add it to liabilities too. You have to figure out where to add it.
+- Please review the lecture slides to see examples of balancing a budget
+
+
+|          Assets        | Liabilities |
+|:----------------------:|:----------:|
+| Reserves               |  Deposits  |  
+| Loans                  |   Debt     |  
+| Securities            |   Capital (Owners's equity)    |  
+  
+
+
+Leverage ratio measures the financial risk of a bank and shows how much the bank is relying on borrowed money (debt) versus its own capital (equity).
+$$ \text{Leverage Ratio}=\frac{\text{Assets}}{\text{Capital}}=\frac{\text{Reserves}+\text{Loans}+\text{Securities}}{\text{Capital}} $$
+
+You can also use the money multiplier to determine the impact of injecting funds into the money supply.
+
+$$ \text{Change in Demand Deposits }=\frac{\text{Initial Depost }}{\text{Required Reserve Ratio}} $$ 
 #### Interest Rate and Money Supply 
+
+How can the Fed influence money supply? 
+- The Fed can influence the money supply by adjusting the interest rate on loans it provides to banks and other financial institutions.
+Example 
+
+- If the Fed lowers the interest rate it charges banks for borrowing money, banks will be more likely to borrow funds. This increases the amount of money available for lending to businesses and consumers, thus expanding the money supply. 
+
+- Conversely, if the Fed raises the interest rate, borrowing becomes more expensive, leading to a decrease in lending and a reduction in the money supply.
 
 ---
 ## Money Growth & Inflation 
