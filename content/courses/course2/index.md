@@ -299,7 +299,21 @@ $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rat
 ## The Monetary System
 
 ### Use of Money 
+
+- Medium of exchange: Purchasing goods or services
+    - Liquidity: It refers to how quickly something can be bought or sold in the market  
+    - Highly liquid assets: Cash
+    - Less liquid assess: Real estate or collectibles
+- Unit of account: Comparing value and debts 
+- Store of value: Record of purchasing power
+ 
 ### Types of Money 
+
+- Commodity Money: Has intrinsic value 
+    - Example, Gold coins
+- Fiat Money: No intrinsic value but government decrees a value 
+    - Example, US dollars
+
 #### Money in the US Economy 
 ### The Federal Reserve System (Fed)
 #### Bank Reserve
