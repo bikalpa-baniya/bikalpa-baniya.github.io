@@ -300,17 +300,17 @@ $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rat
 
 There are four types of people in the economy
 
-1. Employed : People who have a job (even part time job)
-2. Unemployed : People who do not have a job but were looking for a job in the past four weeks 
-3. Out of the labor force: People who do not have a job but were **not** looking for a job in the past four weeks
+1. **Employed** : People who have a job (even part time job)
+2. **Unemployed** : People who do not have a job but were looking for a job in the past four weeks 
+3. **Out of the labor force**: People who do not have a job but were **not** looking for a job in the past four weeks
     - Example, Retired folks, students, new mothers, discouraged workers (Folks who like to have a job but gave up searching for jobs)
-4. Children: People below the age of 16
+4. **Children**: People below the age of 16
 
 ### Formulas and Definitions 
 
 $$ \text{Labor Force} = \text{Number of Employed}+ \text{Number of unemployed}$$
-$$ $$
-$$ $$
+$$ \text{Unemployment Rate} = \frac{\text{Number of unemployed}}{\text{Labor Force}}*100 $$
+$$ \text{Labor-Force Participation Rate} = \frac{\text{Labor Force}}{\text{Adult Population}}*100 $$
 
 ### Types of unemployment 
 1. Frictional unemployment 
