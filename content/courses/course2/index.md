@@ -313,9 +313,9 @@ $$ \text{Unemployment Rate} = \frac{\text{Number of unemployed}}{\text{Labor For
 $$ \text{Labor-Force Participation Rate} = \frac{\text{Labor Force}}{\text{Adult Population}}*100 $$
 
 ### Types of unemployment 
-1. Frictional unemployment 
-2. Structural unemployment 
-3. Cyclical unemployment
+1. **Frictional unemployment**: Short term unemployment that occurs because it takes time to look for jobs (in-between jobs unemployment) 
+2. **Structural unemployment**: Occurs because of there are insufficient jobs available
+3. **Cyclical unemployment**: Unemployment that occurs due to seasonal or recession related downturns; for example, Mall Santa Clause
 
 ### Structural unemloyment: A closer look into unions
 ....
