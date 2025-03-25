@@ -308,11 +308,21 @@ There are four types of people in the economy
 
 ### Formulas and Definitions 
 
-### Types of unemployment 
+$$ \text{Labor Force} = \text{Number of Employed}+ \text{Number of unemployed}$$
+$$ $$
+$$ $$
 
-### Structural unemloyment: A closer look
+### Types of unemployment 
+1. Frictional unemployment 
+2. Structural unemployment 
+3. Cyclical unemployment
+
+### Structural unemloyment: A closer look into unions
+....
 
 ### Theory of Efficieny wages
+
+Firm want to voluntarly pay workers above equilibrium wages to boost recruitment and workers productivity
 
 
 
