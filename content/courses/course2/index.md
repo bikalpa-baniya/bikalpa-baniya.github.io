@@ -344,7 +344,8 @@ Common Mistake: M2 = M1 + less liquid asset. It is a common mistake to assume M2
     - Percent of total deposits that banks have to hold as reserve 
 - Useful formulas 
 
-$$ \text{Reserve}&=\text{Demand Deposits}-\text{Loans}\\\text{Required Reserve}&=\text{Demand Deposits}\times\text{Reserve Ratio} $$
+$$ \text{Reserve}=\text{Demand Deposits}-\text{Loans}$$
+$$ \text{Required Reserve}=\text{Demand Deposits}\times\text{Reserve Ratio} $$
 
 
 #### Changes in Money Supply 
