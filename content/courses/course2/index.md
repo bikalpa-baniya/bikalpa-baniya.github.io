@@ -300,12 +300,23 @@ It is the quantity of good and services produced from each unit of labor. In oth
 
 There are four things that determines productivity
 
-1. Physical capital, $\frac{K}{L}$
-2. Human capital, $\frac{H}{L}$
+1. Physical capital per labor, $\frac{K}{L}$
+2. Human capital per labor, $\frac{H}{L}$
     - This is average work expreience and education of the labor force
-3. Natural resources, $\frac{N}{L}$
+3. Natural resources per labor, $\frac{N}{L}$
 4. Technological knowledge $A$
 
+### Production function of output 
+
+$$ Y = A \times F(L,K,H,N) $$
+
+Constant retirn to scale 
+
+
+### Diminishing returns to scale of capital
+
+### Catch-up effect 
+ 
 
 ---
 ## Savings, Investment & the Financial System
