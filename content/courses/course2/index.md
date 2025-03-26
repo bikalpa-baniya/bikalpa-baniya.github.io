@@ -310,7 +310,7 @@ There are four things that determines productivity
 
 $$ Y = A \times F(L,K,H,N) $$
 
-Constant return to scale 
+Constant return to scale ...
 
 
 ### Diminishing returns to scale of capital
@@ -330,9 +330,9 @@ Finally, **stock exchange** are places where stocks are traded but a **stock ind
 
 ### Bonds 
 
-These are a certificate of indebtedness. This means that if you have bonds in a company, the company has to pay to first. There are four things that characterizes a bond. 
+These are a certificate of indebtedness. This means that if you have bonds in a company, the company has to pay to first. When people sell bonds to raise money it is called **debt finance**. There are four things that characterizes a bond. 
 
-1.
+1. 
 2.
 3.
 4.
@@ -342,7 +342,7 @@ These are a certificate of indebtedness. This means that if you have bonds in a 
 
 
 ### Market for loanable funds
-
+...
 ---
 ## Unemployment
 
