@@ -339,10 +339,9 @@ These are a certificate of indebtedness. This means that if you have bonds in a 
 
 ### Savings 
 
-
-
 ### Market for loanable funds
 ...
+
 ---
 ## Unemployment
 
