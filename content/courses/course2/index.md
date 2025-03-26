@@ -291,6 +291,22 @@ $$\text{Real Interest Rate} = \text{Nominal Interest Rate} - \text{Inflation Rat
 
 ---
 ## Production & Economic Growth
+
+### Productivity 
+
+It is the quantity of good and services produced from each unit of labor. In other words, it is $\frac{Y}{L}$ where $Y$ the country's output and $L$ is the country's labor. Productivity is a key determinant in living standard in a country 
+
+### How is it determined?
+
+There are four things that determines productivity
+
+1. Physical capital, $\frac{K}{L}$
+2. Human capital, $\frac{H}{L}$
+    - This is average work expreience and education of the labor force
+3. Natural resources, $\frac{N}{L}$
+4. Technological knowledge $A$
+
+
 ---
 ## Savings, Investment & the Financial System
 ---
