@@ -339,6 +339,19 @@ These are a certificate of indebtedness. This means that if you have bonds in a 
 
 ### Savings 
 
+Remember that GDP is $Y=C+I+G+NX$. Assume that we have a closed economy, i.e. $NX=0$. 
+
+No rearranging gives us $$ I = Y - C - G $$
+
+We assume that investment is equals national savings so $ \text{National Savings} =  Y-C-G $. 
+
+Performing additional algebra where $T$ is taxes 
+
+....
+
+So, if $\text{Public Savings} = T-G>0$, we have a surplus and if $\text{Public Savings}=T-G<0$, we have a deficit.
+
+
 ### Market for loanable funds
 ...
 
