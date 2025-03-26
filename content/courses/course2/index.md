@@ -309,8 +309,9 @@ There are four things that determines productivity
 ### Production function of output 
 
 $$ Y = A \times F(L,K,H,N) $$
+$$ \frac{Y}{L} = A \times F( 1, \frac{K}{L},\frac{H}{L},\frac{N}{L})$$
 
-Constant return to scale ...
+The above represents how the four things affect producitivity (output per capita)
 
 
 ### Diminishing returns to scale of capital
