@@ -332,11 +332,15 @@ Finally, **stock exchange** are places where stocks are traded but a **stock ind
 
 These are a certificate of indebtedness. This means that if you have bonds in a company, the company has to pay to first. When people sell bonds to raise money it is called **debt finance**. There are four things that characterizes a bond. 
 
-1. 
-2.
-3.
-4.
-
+1. **Term**: length of time until the bond matures
+    - Long term bonds: riskier, higher interest
+2. **Credit risk**: probability of borrower default
+    - High probability of default: higher intere
+3. **Tax treatment**: way the tax laws treat the interest earned on the bond
+    - Municipal bonds (issued by state and local governments): no tax, lower interest rates
+4. Does it offer **inflation protection**?
+    - Indexed to a measure of inflation: when prices rise, the payments rise proportionately
+    
 ### Savings 
 
 Remember that GDP is $Y=C+I+G+NX$. Assume that we have a closed economy, i.e. $NX=0$. 
@@ -348,7 +352,7 @@ We assume that investment is equals national savings so $ \text{National Savings
 Performing additional basic algebra below, where $T$ is taxes, we get, 
 
 <p align="center">
-  <img src="Ch13_Private_Public_Savings.png" alt="Ch9_Traiff" width="400">
+  <img src="Ch13_Private_Public_Savings.png" alt="Ch9_Traiff" width="300">
 </p>
 
 So, if $\text{Public Savings} = T-G>0$, we have a surplus and if $\text{Public Savings}=T-G<0$, we have a deficit.
