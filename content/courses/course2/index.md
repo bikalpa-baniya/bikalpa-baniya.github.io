@@ -345,9 +345,11 @@ No rearranging gives us $$ I = Y - C - G $$
 
 We assume that investment is equals national savings so $ \text{National Savings} =  Y-C-G $. 
 
-Performing additional algebra where $T$ is taxes 
+Performing additional basic algebra below, where $T$ is taxes, we get, 
 
-....
+<p align="center">
+  <img src="Ch13_Private_Public_Savings.png" alt="Ch9_Traiff" width="400">
+</p>
 
 So, if $\text{Public Savings} = T-G>0$, we have a surplus and if $\text{Public Savings}=T-G<0$, we have a deficit.
 
