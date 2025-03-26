@@ -310,16 +310,39 @@ There are four things that determines productivity
 
 $$ Y = A \times F(L,K,H,N) $$
 
-Constant retirn to scale 
+Constant return to scale 
 
 
 ### Diminishing returns to scale of capital
+...
 
 ### Catch-up effect 
- 
+...
 
 ---
 ## Savings, Investment & the Financial System
+
+### Stock
+
+Stock are claim of partial ownership of a firm (think Shark Tank and the entrepreneurs giving away a percent of their company). People sell stocks to raise money and this fund raising is called **equity finance**. The price of a stock (for example, in Wall Street) is determined by supply and demand of the stock. 
+
+Finally, **stock exchange** are places where stocks are traded but a **stock index** is just a place that list the prices of stock. 
+
+### Bonds 
+
+These are a certificate of indebtedness. This means that if you have bonds in a company, the company has to pay to first. There are four things that characterizes a bond. 
+
+1.
+2.
+3.
+4.
+
+### Savings 
+
+
+
+### Market for loanable funds
+
 ---
 ## Unemployment
 
