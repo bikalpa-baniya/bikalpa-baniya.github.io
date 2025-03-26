@@ -347,7 +347,7 @@ Remember that GDP is $Y=C+I+G+NX$. Assume that we have a closed economy, i.e. $N
 
 No rearranging gives us $$ I = Y - C - G $$
 
-We assume that investment is equals national savings so $ \text{National Savings} =  Y-C-G $. 
+We assume that investment is equals national savings so $$ \text{National Savings} =  Y-C-G $$. 
 
 Performing additional basic algebra below, where $T$ is taxes, we get, 
 
