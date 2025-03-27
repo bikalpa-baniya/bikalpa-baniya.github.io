@@ -368,6 +368,9 @@ Performing additional basic algebra below, where $T$ is taxes, we get,
 
 So, if $\text{Public Savings} = T-G>0$, we have a surplus and if $\text{Public Savings}=T-G<0$, we have a deficit.
 
+### Market for loanable funds
+
+Please review from the slides
 
 ---
 ## Unemployment
