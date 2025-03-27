@@ -315,7 +315,11 @@ The above represents how the four things affect producitivity (output per capita
 
 
 ### Diminishing returns to scale of capital
-...
+
+<p align="center">
+  <img src="Ch12_Returns_scale_capital.png" alt="Ch9_Traiff" width="300">
+</p>
+
 
 ### Catch-up effect 
 ...
