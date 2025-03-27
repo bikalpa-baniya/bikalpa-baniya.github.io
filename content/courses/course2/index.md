@@ -328,7 +328,7 @@ In the graph, the x-axis represents capital per worker ($\frac{K}{L}$), while th
 
 The Catch-Up Effect suggests that poorer countries grow faster than richer ones due to diminishing returns to capital. The curve shows that at low levels of capital, additional investment leads to large output per worker gains, whereas at higher levels, the gains diminish. This explains why countries with low initial capital grow faster as they benefit more from investment. 
 
-- Example, In the 1960s, South Korea was a relatively poor country with low K/L and Y/L. However, due to high savings, investment in education, and technology adoption, its economy grew rapidly, catching up to more developed countries like the U.S. and Japan. By investing in capital (factories, infrastructure, human capital, etc.), Korea experienced high returns on investment, similar to the green section in the graph. Over time, as K/L increased, its growth rate slowed, following the trend shown in the graph.
+- Example: In the 1960s, South Korea was a relatively poor country with low K/L and Y/L. However, due to high savings, investment in education, and technology adoption, its economy grew rapidly, catching up to more developed countries like the U.S. and Japan. By investing in capital (factories, infrastructure, human capital, etc.), Korea experienced high returns on investment, similar to the green section in the graph. Over time, as K/L increased, its growth rate slowed, following the trend shown in the graph.
 
 ---
 ## Savings, Investment & the Financial System
@@ -471,13 +471,13 @@ $$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} $$
 
 Inutition: The money multiplier shows how banks can create more money through lending.
 
-For example, if you deposit $1,000 and the reserve ratio is 10%, the bank must keep $100 in reserve and can lend out $900. The borrower spends the $900, which gets deposited in another bank, and that bank lends out 90% of the deposit again.
+For example, if you deposit 1,000 dollars and the reserve ratio is 10%, the bank must keep $100 in reserve and can lend out 900 dollars. The borrower spends the 900 dollars, which gets deposited in another bank, and that bank lends out 90% of the deposit again.
 
 This process repeats, and the total money created can be calculated as:
 
 $$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} = \frac{1}{10 \text{percent}}=\frac{1}{0.1}=10 $$
 
-So, an initial deposit of $1,000$ could create up to $10,000 in total money but the wealth is still $1,000.
+So, an initial deposit of 1,000 dollars could create up to 10,000 dollars in total money but the wealth is still only 1,000 dollars.
 
 ### Balance Sheet
 A bank's balance sheet is a financial statement that shows the bank's financial position. It helps assess the bank's financial health by providing a snapshot of its assets, liabilities and equity.
