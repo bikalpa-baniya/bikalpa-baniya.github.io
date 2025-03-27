@@ -461,7 +461,7 @@ $$ \text{Required Reserve}=\text{Demand Deposits}\times\text{Reserve Ratio} $$
 
 #### Changes in Money Supply 
 
-- Money vs Wealth: Bank make loans from their deposits to create money but it does not create wealth 
+Money vs Wealth: Bank make loans from their deposits to create money but it does not create wealth 
 - Money Multipliers
 $$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} $$
 
@@ -473,7 +473,7 @@ This process repeats, and the total money created can be calculated as:
 
 $$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} = \frac{1}{10 \text{percent}}=\frac{1}{0.1}=10 $$
 
-So, an initial deposit of $1,000 could create up to $ $1,000 \times 10= \$10,000$ in total money.
+So, an initial deposit of $1,000$ could create up to $10,000 in total money but the wealth is still $1,000
 
 ### Balance Sheet
 A bank's balance sheet is a financial statement that shows the bank's financial position. It helps assess the bank's financial health by providing a snapshot of its assets, liabilities and equity.
