@@ -315,10 +315,12 @@ The above represents how the four things affect producitivity (output per capita
 
 
 ### Diminishing returns to scale of capital
-
 <p align="center">
-  <img src="Ch12_Returns_scale_capital.png" alt="Ch9_Traiff" width="300">
+  <img src="Ch12_Returns_scale_capital.png" alt="Ch9_Traiff" width="350">
 </p>
+Diminishing returns to scale of capital means that as you increase capital while keeping other factors constant, you get less output out of additional increase in capital if you have more of it. 
+Here $\frac{Y}{L}$ is output per capital and 
+
 
 
 ### Catch-up effect 
@@ -443,7 +445,8 @@ Common Mistake: M2 = M1 + less liquid asset. It is a common mistake to assume M2
 
 Bank have to keep a fraction of their deposits that they cannot loan out 
 
-- Why? ...........
+- Why? To ensure they have enough cash on hand to meet withdrawal demands from customers. This requirement helps maintain stability in the banking system, preventing issues like bank runs, where too many people try to withdraw money at once. It also allows central banks to control the money supply and regulate economic activity.
+- Example: During the 2008 financial crisis, banks like Lehman Brothers and Washington Mutual didn’t have enough reserves because they had invested heavily in risky assets, like mortgage-backed securities. When the housing market collapsed and customers began fearing for their money, they rushed to withdraw their deposits. Because these banks didn’t have enough cash reserves to meet the demand, they faced insolvency, leading to their collapse. This highlights the importance of reserve requirements, which ensure banks have enough liquidity to handle withdrawals and maintain stability in times of financial stress.
     
 Reserve Ratio
 
@@ -462,7 +465,15 @@ $$ \text{Required Reserve}=\text{Demand Deposits}\times\text{Reserve Ratio} $$
 - Money Multipliers
 $$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} $$
 
-Inutition: ..............
+Inutition: The money multiplier shows how banks can create more money through lending.
+
+For example, if you deposit $1,000 and the reserve ratio is 10%, the bank must keep $100 in reserve and can lend out $900. The borrower spends the $900, which gets deposited in another bank, and that bank lends out 90% of the deposit again.
+
+This process repeats, and the total money created can be calculated as:
+
+$$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} = \frac{1}{10 \text{percent}}=\frac{1}{0.1}=10 $$
+
+So, an initial deposit of $1,000 could create up to $ $1,000 \times 10= \$10,000$ in total money.
 
 ### Balance Sheet
 A bank's balance sheet is a financial statement that shows the bank's financial position. It helps assess the bank's financial health by providing a snapshot of its assets, liabilities and equity.
