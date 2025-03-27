@@ -319,12 +319,16 @@ The above represents how the four things affect producitivity (output per capita
   <img src="Ch12_Returns_scale_capital.png" alt="Ch9_Traiff" width="350">
 </p>
 Diminishing returns to scale of capital means that as you increase capital while keeping other factors constant, you get less output out of additional increase in capital if you have more of it. 
-Here $\frac{Y}{L}$ is output per capital and 
+
+In the graph, the x-axis represents capital per worker ($\frac{K}{L}$), while the y-axis represents output per worker ($\frac{Y}{L}$). At low levels of $\frac{K}{L}$ (green), increasing capital leads to large gains in output per worker ($\frac{Y}{L}$). However, as $\frac{K}{L}$ increases (orange), the curve flattens, meaning each additional unit of capital contributes smaller increases in $\frac{Y}{L}$. This shows that while capital investment boosts output per worker, its effect weakens over time.
 
 
 
 ### Catch-up effect 
-...
+
+The Catch-Up Effect suggests that poorer countries grow faster than richer ones due to diminishing returns to capital. The curve shows that at low levels of capital, additional investment leads to large output per worker gains, whereas at higher levels, the gains diminish. This explains why countries with low initial capital grow faster as they benefit more from investment. 
+
+- Example, In the 1960s, South Korea was a relatively poor country with low K/L and Y/L. However, due to high savings, investment in education, and technology adoption, its economy grew rapidly, catching up to more developed countries like the U.S. and Japan. By investing in capital (factories, infrastructure, human capital, etc.), Korea experienced high returns on investment, similar to the green section in the graph. Over time, as K/L increased, its growth rate slowed, following the trend shown in the graph.
 
 ---
 ## Savings, Investment & the Financial System
@@ -473,7 +477,7 @@ This process repeats, and the total money created can be calculated as:
 
 $$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} = \frac{1}{10 \text{percent}}=\frac{1}{0.1}=10 $$
 
-So, an initial deposit of $1,000$ could create up to $10,000 in total money but the wealth is still $1,000
+So, an initial deposit of $1,000$ could create up to $10,000 in total money but the wealth is still $1,000.
 
 ### Balance Sheet
 A bank's balance sheet is a financial statement that shows the bank's financial position. It helps assess the bank's financial health by providing a snapshot of its assets, liabilities and equity.
