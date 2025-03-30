@@ -398,7 +398,7 @@ There are three types of unemployment
 2. **Structural unemployment**: Occurs because of there are insufficient jobs available
 3. **Cyclical unemployment**: Unemployment that occurs due to seasonal or recession related downturns; for example, Mall Santa Clause
 
-### Structural unemloyment: A closer look into unions
+### Structural unemloyment: A closer look into unions and minimum wage
 ....
 
 ### Theory of Efficieny wages
@@ -478,7 +478,7 @@ For example, if you deposit 1,000 dollars and the reserve ratio is 10%, the bank
 
 This process repeats, and the total money created can be calculated as:
 
-$$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} = \frac{1}{10 \text{percent}}=\frac{1}{0.1}=10 $$
+$$ \text{Money Multiplier}=\frac{1}{\text{Reserve Ratio}} = \frac{1}{10 \text{ percent}}=\frac{1}{0.1}=10 $$
 
 So, an initial deposit of 1,000 dollars could create up to 10,000 dollars in total money but the wealth is still only 1,000 dollars.
 
