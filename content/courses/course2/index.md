@@ -535,9 +535,16 @@ Example
 
 ### Monetarist Perspective
  
-$$ \text{Equation of exchange  } M \cdot V=P \cdot Q  $$
-- This equation shows that money supply (M) times velocity (V) equals price level (P) times output (Q), linking money to economic activity.
-- Example: 
+$$ \text{Equation of exchange:  } M \cdot V=P \cdot Q  $$
+This equation shows that money supply (M) times velocity (V) equals price level (P) times output (Q), linking money to economic activity.
+
+Example:
+- Suppose M = $500,000 which is the total money in the CU student economy. 
+- V = 6 which is each dollar is spent 6 times per semester.
+- Total Spending is $M \cdot V = 500,000 \Rightarrow = 3,000,000$ 
+- Now assume, P = $15 which is Average price of goods (Chipotle, coffee, concert tickets)
+
+$$ MV=PQ \Leftrightarrow Q = \frac{MV}{P} = \frac{3,000,000}{15} = 200,000 \text{items} $$
 
 - Interpretation: If CU Boulder students collectively have 500, 000 to spend and reuse that money 6 times throughout the semester, they can generate 3 million in spending. At an average price of 15 per item, this supports 200,000 purchases like meals, textbooks, and tickets for Bu!s games or events on The Hill.
 
