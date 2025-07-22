@@ -363,7 +363,7 @@ We assume that investment is equals national savings so $$ \text{National Saving
 Performing additional basic algebra below, where $T$ is taxes, we get, 
 
 <p align="center">
-  <img src="Ch13_Private_Public_Savings.png" alt="Ch9_Traiff" width="300">
+  <img src="Ch13_Private_Public_Savings.png" alt="Ch13_Private_Public_Savings.png" width="300">
 </p>
 
 So, if $\text{Public Savings} = T-G>0$, we have a surplus and if $\text{Public Savings}=T-G<0$, we have a deficit.
@@ -518,11 +518,30 @@ Example
 - Conversely, if the Fed raises the interest rate, borrowing becomes more expensive, leading to a decrease in lending and a reduction in the money supply.
 
 ---
-## Money Growth & Inflation 
----
-## Open-Economy Macro: The Basics
----
-## Aggregate Demand & Aggregate Supply
----
-## Monetary & Fiscal Policies
+## Fiscal Policies
+
+### Monetary Stimulus and Restraint
+
+- Efects on AD: Monetary stimulus increases aggregate demand (AD) by lowering interest rates, while restraint reduces AD by raising them.
+- Policy lags and e!ectiveness: Monetary policy takes time to a!ect the economy due to delays in implementation and impact
+
+### Global Considerations
+- Global capital flows: Capital moves across countries seeking better returns, affecting domestic interest rates and investment.
+- Multinational corporate borrowing: Large global companies borrow in international markets to access lower interest rates, which a!ects their spending and operations worldwide.
+
+### Real vs. Nominal Interest Rates
+- Anticipated inflation: Real interest rates are adjusted for inflation, unlike nominal rates, which are the stated rates.
+- Loan pricing: Lenders factor in expected inflation when setting interest rates to ensure a real return.
+
+### Monetarist Perspective
+ 
+$$ \text{Equation of exchange  } M \cdot V=P \cdot Q  $$
+- This equation shows that money supply (M) times velocity (V) equals price level (P) times output (Q), linking money to economic activity.
+- Example: 
+
+- Interpretation: If CU Boulder students collectively have 500, 000 to spend and reuse that money 6 times throughout the semester, they can generate 3 million in spending. At an average price of 15 per item, this supports 200,000 purchases like meals, textbooks, and tickets for Bu!s games or events on The Hill.
+
+## Monetary Policies 
+
+- 
 ---
