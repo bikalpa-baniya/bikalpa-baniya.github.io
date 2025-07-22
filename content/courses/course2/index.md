@@ -523,11 +523,11 @@ Example
 ### Monetary Stimulus and Restraint
 
 - Efects on AD: Monetary stimulus increases aggregate demand (AD) by lowering interest rates, while restraint reduces AD by raising them.
-- Policy lags and e!ectiveness: Monetary policy takes time to a!ect the economy due to delays in implementation and impact
+- Policy lags and effectiveness: Monetary policy takes time to affect the economy due to delays in implementation and impact
 
 ### Global Considerations
 - Global capital flows: Capital moves across countries seeking better returns, affecting domestic interest rates and investment.
-- Multinational corporate borrowing: Large global companies borrow in international markets to access lower interest rates, which a!ects their spending and operations worldwide.
+- Multinational corporate borrowing: Large global companies borrow in international markets to access lower interest rates, which affects their spending and operations worldwide.
 
 ### Real vs. Nominal Interest Rates
 - Anticipated inflation: Real interest rates are adjusted for inflation, unlike nominal rates, which are the stated rates.
@@ -544,11 +544,27 @@ Example:
 - Total Spending is $M \cdot V = 500,000 \Rightarrow = 3,000,000$ 
 - Now assume, P = $15 which is Average price of goods (Chipotle, coffee, concert tickets)
 
-$$ MV=PQ \Leftrightarrow Q = \frac{MV}{P} = \frac{3,000,000}{15} = 200,000 \text{items} $$
+$$ MV=PQ $$
 
-- Interpretation: If CU Boulder students collectively have 500, 000 to spend and reuse that money 6 times throughout the semester, they can generate 3 million in spending. At an average price of 15 per item, this supports 200,000 purchases like meals, textbooks, and tickets for Bu!s games or events on The Hill.
+$$ \Leftrightarrow Q = \frac{MV}{P} = \frac{3,000,000}{15} = 200,000 \text{items} $$
+
+- Interpretation: If CU Boulder students collectively have 500, 000 to spend and reuse that money 6 times throughout the semester, they can generate 3 million in spending. At an average price of 15 per item, this supports 200,000 purchases like meals, textbooks, and tickets for games or events on The Hill.
 
 ## Monetary Policies 
 
-- 
+###  Stagflation and AS Shocks
+- Causes and policy responses: Stagflation occurs when inflation and unemployment rise simultaneously, often due to supply-side shocks like energy price spikes.
+
+### Shape of the AS Curve
+- Keynesian (horizontal), Classical (vertical), intermediate: The AS curve is horizontal in the Keynesian range when there’s high unemployment and unused resources (output can increase without raising prices); vertical in the Classical range when the economy is at full capacity (output can’t increase, only prices rise); and upward-sloping in the intermediate range as both output and prices rise.
+
+### Supply-Side Tools
+- Tax cuts, deregulation, labor market reform: These are policies aimed at increasing productivity and long-run economic growth by reducing barriers to work, investment, and business activity—such as cutting taxes to boost take-home pay, reducing regulations to lower business costs, and reforming labor rules to encourage hiring.
+
+
+###  Tariffs and Trade
+- Effects on inflation and AS: Tariffs raise the cost of imported goods, which can reduce supply and increase prices (inflation).
+ 
+### New Classical Economics
+- Rational expectations: People use all available information to anticipate economic changes, limiting the effectiveness of predictable government policies.
 ---
