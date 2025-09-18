@@ -20,6 +20,15 @@ disableAnchoredHeadings: false
   ![](Supply-demand-equilibrium.svg)
 
 
+## Demand and Elasticity 
+
+ [Notes]()
+
+## Supply and Equilibrium 
+
+ [Notes]()
+
+<!--
 ##   Opportunity Cost and Trade
  - [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EasJa1ShTxxOhxV_vIm924MBk8HNVHEX9pK3vlTui9loBg?e=O19ct0)
  - [Solutions](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EV-CDWRM5FRAnP5sRuiF8QEBNQ5xsKSqEwY88p05aECLDw?e=xoa21J)
@@ -82,4 +91,5 @@ disableAnchoredHeadings: false
 
 
 
+-->
 
