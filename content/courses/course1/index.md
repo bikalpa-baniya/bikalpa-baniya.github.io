@@ -18,15 +18,19 @@ disableAnchoredHeadings: false
 
 ---
   ![](Supply-demand-equilibrium.svg)
-
+  
 
 ## Demand and Elasticity 
 
- [Notes]()
+ [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ERiItWt7hrxKmDcz9WLe2bUBkvq1xUhEPlx-HeNiFeBfzQ?e=BgurIJ)
 
 ## Supply and Equilibrium 
 
- [Notes]()
+ [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/ERxJYed3r1tJslzMQi_V7BsBdgWY4cDxSLB6ZiDX5IARTA?e=aME85D)
+ 
+ ## Surplus and Goverment Policy
+
+ [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ0OStnuJtBMoKXkSjn6iEQB_6qskfxYccsuaLoUkrqOKg?e=oDFFtS)
 
 <!--
 ##   Opportunity Cost and Trade
