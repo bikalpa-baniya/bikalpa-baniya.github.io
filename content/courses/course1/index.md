@@ -31,6 +31,14 @@ disableAnchoredHeadings: false
  ## Surplus and Goverment Policy
 
  [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EZ0OStnuJtBMoKXkSjn6iEQB_6qskfxYccsuaLoUkrqOKg?e=oDFFtS)
+ 
+ ## Comparative Advantage and Taxes
+ 
+  [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/Ecb5LSRKslRNldwWjIjVKPcBeMwTVoMcc7SLJfz8jwOylA?e=RMg9D3)
+  
+  ## Profit Maximization, Long Run and Short Run
+  
+    [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EQShn80vxhtOm7Txj3vBbGQBYLZWoGwSy2XE7BjzSVS16A?e=o8emXn)
 
 <!--
 ##   Opportunity Cost and Trade
