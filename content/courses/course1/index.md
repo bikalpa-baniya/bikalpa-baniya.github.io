@@ -40,6 +40,14 @@ disableAnchoredHeadings: false
   
   [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/Ecb5LSRKslRNldwWjIjVKPcBeMwTVoMcc7SLJfz8jwOylA?e=RMg9D3)
 
+ ## Monopoly
+  
+  [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EXiJHm5rY4ZMqJ6WJBK6uTgB8S0IYS0Fgia9dTxWEMu54w?e=FQhZt8)
+   
+  ## Public Goods and Externalities
+  
+  [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EWUn3ggkPM9Bq4ruSYzWkpoByrAJIRppWkFhReRZ92W-XQ?e=H6oUSd)
+
 <!--
 ##   Opportunity Cost and Trade
  - [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EasJa1ShTxxOhxV_vIm924MBk8HNVHEX9pK3vlTui9loBg?e=O19ct0)
