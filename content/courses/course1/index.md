@@ -38,7 +38,7 @@ disableAnchoredHeadings: false
   
   ## Profit Maximization, Long Run and Short Run
   
-    [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EQShn80vxhtOm7Txj3vBbGQBYLZWoGwSy2XE7BjzSVS16A?e=o8emXn)
+    [Notes](https://o365coloradoedu-my.sharepoint.com/:b:/g/personal/biba7086_colorado_edu/EQShn80vxhtOm7Txj3vBbGQBYLZWoGwSy2XE7BjzSVS16A?e=m3hRgT)
 
 <!--
 ##   Opportunity Cost and Trade
