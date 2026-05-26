@@ -16,6 +16,8 @@ disableAnchoredHeadings: false
 ---
 ## Education
 
+Present &nbsp;&nbsp;&nbsp; PhD in Economics **University of Colorado Boulder**
+
 2023  &nbsp;&nbsp;&nbsp;  MSc in Economics  **University of Wisconsin - Madison**
 
 2021  &nbsp;&nbsp;&nbsp;  MSEd in Education, **University of Pennsylvania**, Graduate School of Education
@@ -25,6 +27,7 @@ disableAnchoredHeadings: false
 
 
 ## Experiences
+2026 &nbsp;&nbsp;&nbsp;   **Research Assistant**, for Prof. Sergey Nigai and Dr. Jacob Howard
 
 2025 &nbsp;&nbsp;&nbsp;   **Research Assistant**, for Prof. Richard Mansfield and Prof. Jeronimo Carballo
 
@@ -38,10 +41,16 @@ disableAnchoredHeadings: false
 
 
 ## Awards and Certifications
+2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Graduate Part-Time Instructor Recognition Award** from CU Graduate School
+
+2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Graduate Student Award** from the CU Center to Advance Research and Teaching in the
+Social Sciences
+
+
+2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Flower Family Graduate Student Award**
 
 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **US Census Bureau Special Sworn Status**
 
-2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Award**
 
 2023-2025 &nbsp;&nbsp; **CU Boulder Graduate Fellowship**
 
