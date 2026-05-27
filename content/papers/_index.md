@@ -8,12 +8,12 @@ description: "Preprints and articles by Bikalpa Baniya"
 
 ### Working Paper
 
-**Skill Mismatch with Worker-Side Learning Heterogeneity**
+Skill Mismatch with Worker-Side Learning Heterogeneity*
 
 ### Work in Progress
 
-**Market Concentration and Vertical Incidence of Demand Shocks**
+Market Concentration and Vertical Incidence of Demand Shocks
 
-**Advertising Response to the SNAP Issuance Cycle**
+Advertising Response to the SNAP Issuance Cycle
 
 
