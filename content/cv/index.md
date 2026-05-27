@@ -49,9 +49,6 @@ Social Sciences
 
 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Flower Family Graduate Student Award**
 
-2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **US Census Bureau Special Sworn Status**
-
-
 2023-2025 &nbsp;&nbsp; **CU Boulder Graduate Fellowship**
 
 2019-2021 &nbsp;&nbsp;&nbsp; **Penn-UNESCO Fellow**
