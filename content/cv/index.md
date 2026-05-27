@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
-date: 2024-12-15
-lastmod: 2025-01-11
+date: 2026-01-15
+lastmod: 2026-02-11
 tags: ["CV"]
 author: "Bikalpa Baniya"
 description: "Curriculum Vitae" 
